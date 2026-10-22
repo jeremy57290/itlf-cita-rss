@@ -2,8 +2,88 @@
   "seen": {
     "42d6a6d43f7f4b9286b59377": "2026-10-22T10:46:23.376914+00:00",
     "3a0a15d4088007cdc01ada45": "2026-10-22T10:46:23.376914+00:00",
-    "24d535482a731c595d2a2271": "2026-10-22T11:13:34.985795+00:00"
+    "24d535482a731c595d2a2271": {
+      "fingerprint": "768c25aa5c72c5ccaa145caa",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "c1c5f99fdf10699a8ca51168": {
+      "fingerprint": "8c185f5837413553bd533017",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "deb82871f038840a6576ee9e": {
+      "fingerprint": "9a41ccc051174ce3a8551e7d",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "72b9133facab8db69c75159e": {
+      "fingerprint": "11a8e3ff3fdca04531906ec9",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "6cd90db0450ecee81e427a08": {
+      "fingerprint": "7ce5d4ceaf6dca1be12da2d8",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "ec1f0316e630759a032c1abb": {
+      "fingerprint": "b0ce868734f3bcb8eac9710c",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "04e708d5913e057d7835d2ef": {
+      "fingerprint": "b0ce868734f3bcb8eac9710c",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "869fb3743055aae00ff6367b": {
+      "fingerprint": "81f94a419ebca4f83bdada39",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "2295ae1921c38d2dc28ffc12": {
+      "fingerprint": "b0ce868734f3bcb8eac9710c",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "71c49b17613a598dae900704": {
+      "fingerprint": "14af1ab037bde560fd0f0b4f",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "5630cc9edccd4eb7ed4a631c": {
+      "fingerprint": "a8a6c739cd7c2424b046ad43",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "2dbfdef6c2ab2c6d74971d9f": {
+      "fingerprint": "94f67a0fb6c191e586a610fb",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "42b00f2f599ce9ae085c8d0e": {
+      "fingerprint": "160264050ec857b6cbb15aeb",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "228ad0e0c8c166ee7a2a9495": {
+      "fingerprint": "419c47362be3ce0152cab860",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "39e38247e92d73a4ab4fdee6": {
+      "fingerprint": "357591e5ec800bdbe70164a6",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "36709f04ce1e931ebd4b106a": {
+      "fingerprint": "265e1bc17f0c44cff78c3618",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "086eacd7def88fd43385a5ad": {
+      "fingerprint": "b6d4853364d30b4e64495d00",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "02fe70bca18024a34804d23d": {
+      "fingerprint": "728d05e944ac190d17042e88",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "dba7c2562685f64c728e47c1": {
+      "fingerprint": "c125d93252d7a0226794393d",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    },
+    "648b5789ebcfd787532d1ee2": {
+      "fingerprint": "b4ffc39c700d0e5c8e424c19",
+      "last_seen": "2026-10-22T11:37:20.765900+00:00"
+    }
   },
   "items": [],
-  "safe_v2_initialized": true
+  "safe_v2_initialized": true,
+  "itlf_v3_initialized": true
 }

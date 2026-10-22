@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
-<title>ITLF – Alertes trafic Luxembourg (CITA)</title>
+<title>ITLF – Informations trafic Luxembourg (CITA)</title>
 <link>https://www.cita.lu/</link>
-<description>Incidents routiers sélectionnés sur les autoroutes luxembourgeoises. Source : CITA.</description>
+<description>Alertes et évolutions du trafic sur les routes du Luxembourg. Source : CITA.</description>
 <language>fr-LU</language>
-<lastBuildDate>Thu, 22 Oct 2026 11:23:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 11:37:20 +0000</lastBuildDate>
 </channel></rss>
