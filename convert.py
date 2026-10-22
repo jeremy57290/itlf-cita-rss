@@ -10,6 +10,8 @@ import hashlib
 import json
 import re
 import sys
+import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -259,6 +261,38 @@ def update(current, state, now):
     return {"seen": seen, "items": items, "safe_v2_initialized": True,
             "itlf_v3_initialized": True}, len(new_items)
 
+def download_xml():
+    """Retente le téléchargement et rejette les réponses vides ou non XML."""
+    last_error = None
+    for attempt in range(1, 5):
+        try:
+            req = urllib.request.Request(SOURCE, headers={
+                "User-Agent": "Mozilla/5.0 (compatible; ITLF-CITA-RSS/4.1)",
+                "Accept": "application/xml,text/xml,*/*",
+                "Cache-Control": "no-cache",
+            })
+            with urllib.request.urlopen(req, timeout=35) as response:
+                raw = response.read(10_000_001)
+                content_type = response.headers.get("Content-Type", "")
+                status = response.status
+            if len(raw) > 10_000_000:
+                raise ValueError("XML CITA trop volumineux")
+            if not raw.strip():
+                raise ValueError(f"Réponse CITA vide (HTTP {status}, Content-Type: {content_type})")
+            if not raw.lstrip().startswith(b"<"):
+                raise ValueError(f"Réponse CITA non XML (HTTP {status}, Content-Type: {content_type})")
+            # Vérifier le XML avant toute écriture sur disque.
+            ET.fromstring(raw)
+            print(f"CITA : réponse XML valide, {len(raw)} octets (tentative {attempt}).")
+            return raw
+        except (urllib.error.URLError, TimeoutError, ValueError, ET.ParseError) as exc:
+            last_error = exc
+            print(f"CITA : tentative {attempt}/4 échouée : {exc}", file=sys.stderr)
+            if attempt < 4:
+                time.sleep(3 * attempt)
+    raise RuntimeError(f"Source CITA indisponible après 4 tentatives : {last_error}. "
+                       "Flux RSS et historique conservés sans modification.")
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", help="XML local : diagnostic uniquement, aucune écriture")
@@ -267,12 +301,7 @@ def main():
     if args.input:
         raw = Path(args.input).read_bytes()
     else:
-        req = urllib.request.Request(SOURCE, headers={
-            "User-Agent": "ITLF-CITA-RSS/4.0", "Accept": "application/xml,text/xml"})
-        with urllib.request.urlopen(req, timeout=35) as response:
-            raw = response.read(10_000_001)
-            if len(raw) > 10_000_000:
-                raise ValueError("XML trop volumineux")
+        raw = download_xml()
     current, counts = parse(raw, now)
     print("Types DATEX rencontrés :", json.dumps(counts, ensure_ascii=False, sort_keys=True))
     print(f"{len(current)} événements routiers retenus (toutes routes, toutes catégories reconnues).")
