@@ -135,8 +135,7 @@ def main():
         history.insert(0, {'key': key, **e})
     history = history[:40]
     state_path.parent.mkdir(parents=True, exist_ok=True)
-    if new or not rss_path.exists():
-        rss_path.write_text(make_rss(history, now), encoding='utf-8')
+    rss_path.write_text(make_rss(history, now), encoding='utf-8')
     state_path.write_text(json.dumps({'seen': seen, 'items': history, 'safe_v2_initialized': True}, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(f'{len(new)} nouvelles alertes ajoutées au RSS.')
 
