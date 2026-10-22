@@ -94,3 +94,55 @@ def make_rss(items, now):
     return '\n'.join(lines + ['</channel></rss>']) + '\n'
 
 def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--input', help='XML DATEX local pour diagnostic sans modification des fichiers')
+    args = ap.parse_args()
+    now = datetime.now(timezone.utc)
+    if args.input:
+        raw = Path(args.input).read_bytes()
+    else:
+        req = urllib.request.Request(SOURCE, headers={'User-Agent': 'ITLF-CITA-RSS/2.0', 'Accept': 'application/xml,text/xml'})
+        with urllib.request.urlopen(req, timeout=35) as response:
+            raw = response.read(10_000_001)
+            if len(raw) > 10_000_000:
+                raise ValueError('XML trop volumineux')
+    current, counts = parse(raw, now)
+    print('Types DATEX rencontrés : ' + json.dumps(counts, ensure_ascii=False, sort_keys=True))
+    print(f'{len(current)} événements retenus après filtrage (accidents, obstacles, congestion).')
+    if args.input:
+        for e in current.values():
+            print('DIAGNOSTIC UNIQUEMENT :', e['id'], e['title'])
+        return
+    state_path, rss_path = Path('docs/state.json'), Path('docs/rss.xml')
+    state_exists = state_path.exists()
+    state = json.loads(state_path.read_text(encoding='utf-8')) if state_exists else {'seen': {}, 'items': []}
+    seen = state.get('seen', {})
+    if not isinstance(seen, dict):
+        raise ValueError('Format de state.json inattendu : seen doit être un objet')
+    # Après un changement de filtre, initialiser les incidents existants sans les publier.
+    # Seuls les incidents créés APRÈS cette exécution seront émis.
+    if not state.get('safe_v2_initialized'):
+        seen.update({k: now.isoformat() for k in current})
+        new = []
+        print('Initialisation prudente v2 : aucun incident existant ne sera publié.')
+    else:
+        new = [(k, e) for k, e in current.items() if k not in seen]
+        seen.update({k: now.isoformat() for k, _ in new})
+    if len(seen) > 5000:
+        seen = dict(sorted(seen.items(), key=lambda kv: kv[1])[-5000:])
+    history = state.get('items', [])
+    for key, e in new:
+        history.insert(0, {'key': key, **e})
+    history = history[:40]
+    state_path.parent.mkdir(parents=True, exist_ok=True)
+    if new or not rss_path.exists():
+        rss_path.write_text(make_rss(history, now), encoding='utf-8')
+    state_path.write_text(json.dumps({'seen': seen, 'items': history, 'safe_v2_initialized': True}, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    print(f'{len(new)} nouvelles alertes ajoutées au RSS.')
+
+if __name__ == '__main__':
+    try:
+        main()
+    except Exception as e:
+        print('ERREUR :', e, file=sys.stderr)
+        sys.exit(1)
