@@ -5,12 +5,17 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
+  id-token: write
 concurrency:
   group: itlf-cita-rss
   cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -20,6 +25,18 @@ jobs:
           python-version: '3.12'
       - name: Convertir DATEX II en RSS
         run: python convert.py
+      - name: Diagnostic sans publication fictive
+        run: |
+          python - <<'PY'
+          import json
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+          state = json.loads(Path('docs/state.json').read_text(encoding='utf-8'))
+          root = ET.parse('docs/rss.xml').getroot()
+          print('Identifiants mémorisés :', len(state.get('seen', {})))
+          print('Événements dans historique :', len(state.get('items', [])))
+          print('Éléments RSS :', len(root.findall('./channel/item')))
+          PY
       - name: Enregistrer le flux et l'historique
         run: |
           git config user.name "github-actions[bot]"
@@ -29,3 +46,9 @@ jobs:
             git commit -m "Mise à jour du RSS CITA"
             git push
           fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
