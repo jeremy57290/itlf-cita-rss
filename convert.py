@@ -17,6 +17,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 from xml.sax.saxutils import escape
 
 SOURCE = "https://cita.lu/info_trafic/datex/situationrecord36"
@@ -26,6 +27,10 @@ MAX_EVENT_AGE = timedelta(minutes=20)
 RSS_LIFETIME = timedelta(minutes=45)
 MAX_ITEMS = 100
 MAX_SEEN = 15000
+SUMMARY_INTERVAL_HOURS = 2
+SUMMARY_WINDOW_MINUTES = 20
+SUMMARY_MAX_EVENTS = 20
+LOCAL_TZ = ZoneInfo("Europe/Luxembourg")
 # Les travaux annoncés peuvent être publiés dans les 24 h avant leur début,
 # uniquement si l'enregistrement CITA vient d'être créé ou modifié.
 PLANNED_HORIZON = timedelta(hours=24)
@@ -176,6 +181,7 @@ def parse(raw, now):
                 "id": rid, "kind": kind, "title": title, "description": description,
                 "start": fmt(start), "created": fmt(created), "revised": fmt(revised),
                 "fingerprint": fingerprint, "road": road,
+                "direction": direction, "restricted": restricted,
             }
     return events, counts
 
@@ -197,6 +203,52 @@ def make_rss(items, now):
                       f'<pubDate>{format_datetime(published)}</pubDate>',
                       "</item>"])
     return "\n".join(lines + ["</channel></rss>"]) + "\n"
+
+def summary_slot(now):
+    """Créneaux de deux heures à l'heure du Luxembourg, y compris heure d'hiver."""
+    local_now = now.astimezone(LOCAL_TZ)
+    if local_now.hour % SUMMARY_INTERVAL_HOURS != 0 or local_now.minute >= SUMMARY_WINDOW_MINUTES:
+        return None
+    slot = local_now.replace(minute=0, second=0, microsecond=0)
+    return slot.strftime("%Y-%m-%dT%H:%M%z")
+
+
+def make_summary(current, now, slot):
+    """Point trafic basé uniquement sur les événements encore présents chez CITA."""
+    if not current:
+        return None
+    active = [e for e in current.values()
+              if not parse_date(e.get("start")) or parse_date(e["start"]) <= now]
+    if not active:
+        return None
+    # Incidents et restrictions en premier ; le reste par date de mise à jour.
+    priority = {"Accident": 0, "TrafficCongestion": 1, "AbnormalTraffic": 2,
+                "VehicleObstruction": 3, "GeneralObstruction": 4,
+                "RoadOrCarriagewayOrLaneManagement": 5}
+    active.sort(key=lambda e: (priority.get(e["kind"], 10),
+                               -e.get("restricted", 0), e.get("road", "")))
+    local_now = now.astimezone(LOCAL_TZ)
+    title = "🚦 POINT TRAFIC LUXEMBOURG – " + local_now.strftime("%d/%m à %Hh%M")
+    lines = [title, "📡 Perturbations toujours signalées dans le flux CITA :",
+             f"{len(active)} événement(s) référencé(s).", ""]
+    for event in active[:SUMMARY_MAX_EVENTS]:
+        label = LABELS.get(event["kind"], event["kind"])
+        direction = event.get("direction", "")
+        detail = f"• {event['road']} : {label}"
+        if direction:
+            detail += " – " + direction[:85]
+        if event.get("restricted"):
+            detail += f" ({event['restricted']} voie(s) restreinte(s))"
+        lines.append(detail)
+    if len(active) > SUMMARY_MAX_EVENTS:
+        lines.append(f"… et {len(active) - SUMMARY_MAX_EVENTS} autre(s) événement(s) CITA.")
+    lines.extend(["", "⚠️ Certains signalements peuvent être anciens : leur présence dans CITA ne garantit pas une perturbation récente.",
+                  "ℹ️ Vérifiez la situation avant de prendre la route.",
+                  "Source : CITA Luxembourg | #ITLF #InfoTrafic #Luxembourg"])
+    return {"key": "summary-" + digest(slot), "event_key": "__summary__",
+            "title": title, "description": "\n".join(lines),
+            "published": now.isoformat()}
+
 
 def update(current, state, now):
     seen = state.get("seen", {})
@@ -236,12 +288,20 @@ def update(current, state, now):
                               "description": description, "published": now.isoformat()})
         # Garder la dernière signature; migrer les anciennes chaînes en dict.
         seen[key] = {"fingerprint": event["fingerprint"], "last_seen": now.isoformat()}
+    slot = summary_slot(now)
+    last_summary_slot = state.get("last_summary_slot")
+    if slot and slot != last_summary_slot:
+        summary = make_summary(current, now, slot)
+        if summary:
+            new_items.append(summary)
+            last_summary_slot = slot
+            print(f"Point trafic publié pour le créneau {slot}.")
     retained = []
     for item in old_history:
         if not isinstance(item, dict):
             continue
         event_key = item.get("event_key") or item.get("key")
-        if event_key not in active:
+        if event_key != "__summary__" and event_key not in active:
             continue
         published = parse_date(item.get("published"))
         if published and now - RSS_LIFETIME <= published <= now:
@@ -259,7 +319,8 @@ def update(current, state, now):
             return v.get("last_seen", "") if isinstance(v, dict) else str(v)
         seen = dict(sorted(seen.items(), key=last_seen)[-MAX_SEEN:])
     return {"seen": seen, "items": items, "safe_v2_initialized": True,
-            "itlf_v3_initialized": True}, len(new_items)
+            "itlf_v3_initialized": True,
+            "last_summary_slot": last_summary_slot}, len(new_items)
 
 def download_xml():
     """Retente le téléchargement et rejette les réponses vides ou non XML."""
@@ -316,7 +377,7 @@ def main():
     state_path.parent.mkdir(parents=True, exist_ok=True)
     rss_path.write_text(rss, encoding="utf-8")
     state_path.write_text(json.dumps(updated, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"{added} nouvelles alertes / évolutions ; {len(updated['items'])} éléments RSS visibles.")
+    print(f"{added} nouvelles entrées (alertes, évolutions ou points trafic) ; {len(updated['items'])} éléments RSS visibles.")
 
 if __name__ == "__main__":
     try:
