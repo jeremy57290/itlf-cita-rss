@@ -26,7 +26,7 @@
         "revised": "2026-09-23T14:58:21+00:00",
         "fingerprint": "7c59801b4e1bad49b0d0fd1a"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -55,8 +55,8 @@
         "fingerprint": "1e32277efda044d37ba4e3dd"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 0,
-      "first_missing": "",
+      "missing": 1,
+      "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
     },
@@ -83,8 +83,8 @@
         "fingerprint": "97ab57d2ac53d6ca807b14be"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 0,
-      "first_missing": "",
+      "missing": 1,
+      "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
     },
@@ -115,8 +115,8 @@
         "fingerprint": "7fd974b775d9c71d7cd59667"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 0,
-      "first_missing": "",
+      "missing": 1,
+      "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
     },
@@ -142,7 +142,7 @@
         "revised": "2026-10-20T01:46:13+00:00",
         "fingerprint": "76dd9e52d3797625dcdbdbfe"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -170,7 +170,7 @@
         "revised": "2026-10-05T17:04:30+00:00",
         "fingerprint": "0e689c944b31e12c80cedc14"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -198,7 +198,7 @@
         "revised": "2026-06-18T20:06:54+00:00",
         "fingerprint": "7b87bf6cbe4d283433379a95"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -226,7 +226,7 @@
         "revised": "2026-06-18T20:06:54+00:00",
         "fingerprint": "9f1d81685c4ce51a56df46d0"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -254,7 +254,7 @@
         "revised": "2026-10-21T13:08:36+00:00",
         "fingerprint": "99ba0f8f0387fe2ea3f50bb9"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -282,7 +282,7 @@
         "revised": "2026-10-21T13:08:36+00:00",
         "fingerprint": "8744d073037d45451f53753d"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -310,7 +310,7 @@
         "revised": "2026-08-22T08:09:06+00:00",
         "fingerprint": "a697d7a4e95a206200381172"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -338,7 +338,7 @@
         "revised": "2026-08-22T08:09:06+00:00",
         "fingerprint": "679d2857e551590ccd06df37"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -366,7 +366,7 @@
         "revised": "2026-03-25T14:32:41+00:00",
         "fingerprint": "a86448479ef13787721299a4"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -394,7 +394,7 @@
         "revised": "2026-02-18T04:20:24+00:00",
         "fingerprint": "caef0f173b828dfc536228de"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -422,7 +422,7 @@
         "revised": "2026-10-02T02:09:04+00:00",
         "fingerprint": "1c4929f8f0f3a2ea5e3ce215"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -450,7 +450,7 @@
         "revised": "2026-10-02T02:09:04+00:00",
         "fingerprint": "91251750aad78fd65b411ba1"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -478,7 +478,7 @@
         "revised": "2025-11-07T16:29:06+00:00",
         "fingerprint": "66aa880e4d6786f44fe5a552"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -506,7 +506,7 @@
         "revised": "2025-05-12T08:38:13+00:00",
         "fingerprint": "619a030131c3024cf164c187"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -534,7 +534,7 @@
         "revised": "2025-05-12T08:38:13+00:00",
         "fingerprint": "68bbac6254a7f5ea01a2950a"
       },
-      "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -563,8 +563,8 @@
         "fingerprint": "9172090eb61fb9cafd2c8e26"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 0,
-      "first_missing": "",
+      "missing": 1,
+      "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
     },
@@ -591,52 +591,147 @@
         "fingerprint": "6ba213299e47615e11fa6d56"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
+      "missing": 1,
+      "first_missing": "2026-10-22T15:40:28.244649+00:00",
+      "announced": false,
+      "planned_announced": false
+    },
+    "701a72bd7e626f4894fd36c0": {
+      "schema": 5,
+      "fingerprint": "de65824430064362f88172b3",
+      "event": {
+        "id": "238005-1",
+        "kind": "VehicleObstruction",
+        "road": "A7",
+        "direction": "Colmar-Berg: sortie depuis Grunewald",
+        "place": "",
+        "length": "100 m",
+        "lane": "voie de droite",
+        "restricted": 1,
+        "operational": 1,
+        "closure": false,
+        "severity": [
+          "lanesPartiallyObstructed"
+        ],
+        "comment": "",
+        "start": "2026-10-22T15:30:17+00:00",
+        "end": "",
+        "created": "2026-10-22T15:30:17+00:00",
+        "revised": "2026-10-22T15:32:12+00:00",
+        "fingerprint": "de65824430064362f88172b3"
+      },
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
       "missing": 0,
       "first_missing": "",
-      "announced": false,
+      "announced": true,
+      "planned_announced": false
+    },
+    "f9f2e5aaa88b21054e5a2272": {
+      "schema": 5,
+      "fingerprint": "b0b7380f57f51f20703f0aba",
+      "event": {
+        "id": "238004-2",
+        "kind": "VehicleObstruction",
+        "road": "A1",
+        "direction": "Autoroute de Tréves, vers Gasperich",
+        "place": "",
+        "length": "100 m",
+        "lane": "",
+        "restricted": 0,
+        "operational": 2,
+        "closure": false,
+        "severity": [],
+        "comment": "",
+        "start": "2026-10-22T15:17:23+00:00",
+        "end": "",
+        "created": "2026-10-22T15:17:23+00:00",
+        "revised": "2026-10-22T15:17:36+00:00",
+        "fingerprint": "b0b7380f57f51f20703f0aba"
+      },
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
+      "missing": 0,
+      "first_missing": "",
+      "announced": true,
+      "planned_announced": false
+    },
+    "50e2c68083522bd5442c0566": {
+      "schema": 5,
+      "fingerprint": "2a7ca643b058bcfdaaf42cc5",
+      "event": {
+        "id": "238003-1",
+        "kind": "VehicleObstruction",
+        "road": "A6",
+        "direction": "Autoroute d'Arlon, vers Arlon",
+        "place": "",
+        "length": "100 m",
+        "lane": "",
+        "restricted": 0,
+        "operational": 2,
+        "closure": false,
+        "severity": [],
+        "comment": "",
+        "start": "2026-10-22T15:11:03+00:00",
+        "end": "",
+        "created": "2026-10-22T15:11:03+00:00",
+        "revised": "2026-10-22T15:11:41+00:00",
+        "fingerprint": "2a7ca643b058bcfdaaf42cc5"
+      },
+      "last_seen": "2026-10-22T15:40:28.244649+00:00",
+      "missing": 0,
+      "first_missing": "",
+      "announced": true,
       "planned_announced": false
     }
   },
   "items": [
     {
-      "key": "summary-41a8a85b34fe5a58d3f51fc8",
-      "event_key": "__summary__",
-      "title": "🚦 POINT TRAFIC LUXEMBOURG – 22/10 à 14h33",
-      "description": "🚦 POINT TRAFIC LUXEMBOURG – 22/10 à 14h33\n\n🚗 Voici les principales perturbations de circulation :\n\n🛣️ A1\n• Véhicule immobilisé – Autoroute de Tréves, vers Trier\n• Travaux de maintenance – Autoroute de Tréves, vers Gasperich (1 voie(s) restreinte(s))\n• Travaux de maintenance – Autoroute de Tréves, vers Gasperich\n• Travaux de maintenance – Autoroute de Tréves, vers Gasperich\n• Travaux de maintenance – Autoroute de Tréves, vers Gasperich\n• Travaux de maintenance – Autoroute de Tréves, vers Trier\n• Travaux de maintenance – Autoroute de Tréves, vers Trier\n• Travaux de maintenance – Autoroute de Tréves, vers Trier\n\n🛣️ A13\n• Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))\n• Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))\n• Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))\n• Travaux de maintenance – Collectrice du Sud, vers Petange\n• Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)\n• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange\n• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange\n• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange\n\n🛣️ A4\n• Véhicule immobilisé – Lallange N4: sortie depuis Esch\n\n🛣️ A3\n• Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))\n• Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))\n• Travaux – Gasperich: Bettembourg vers Grunewald\n… et 1 autres perturbations en cours.\n\n⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.\n🚗 Adaptez votre itinéraire et restez prudents.\n#ITLF #InfoTrafic #Luxembourg #CITA",
-      "published": "2026-10-22T12:33:09.004222+00:00",
-      "category": "summary"
+      "key": "701a72bd7e626f4894fd36c0-n-de65824430064362f88172b3",
+      "event_key": "701a72bd7e626f4894fd36c0",
+      "title": "⚠️ LUXEMBOURG – A7 | Véhicule immobilisé",
+      "description": "⚠️ LUXEMBOURG – A7 | Véhicule immobilisé\n📍 Colmar-Berg: sortie depuis Grunewald\n⚠️ 1 voie(s) restreinte(s).\n🛣️ Voie concernée : voie de droite.\n📏 Secteur concerné : environ 100 m.\n\n⚠️ Restez prudents et adaptez votre itinéraire.\n#ITLF #InfoTrafic #Luxembourg #CITA",
+      "published": "2026-10-22T15:40:28.244649+00:00",
+      "category": "new"
     },
     {
-      "key": "939d80641c6c02b6d2749054-n-efe3ef346524bccbf4351e45",
-      "event_key": "939d80641c6c02b6d2749054",
-      "title": "🚨 LUXEMBOURG – A4 | Véhicule en panne",
-      "description": "🚨 LUXEMBOURG – A4 | Véhicule en panne\n📍 Direction / secteur : Lallange N4: sortie depuis Esch\nℹ️ Prudence, vérifiez les conditions de circulation.\n📡 Source : CITA Luxembourg\n#ITLF #InfoTrafic #Luxembourg",
-      "published": "2026-10-22T12:08:46.167263+00:00"
+      "key": "f9f2e5aaa88b21054e5a2272-n-b0b7380f57f51f20703f0aba",
+      "event_key": "f9f2e5aaa88b21054e5a2272",
+      "title": "⚠️ LUXEMBOURG – A1 | Véhicule immobilisé",
+      "description": "⚠️ LUXEMBOURG – A1 | Véhicule immobilisé\n📍 Autoroute de Tréves, vers Gasperich\n📏 Secteur concerné : environ 100 m.\n\n⚠️ Restez prudents et adaptez votre itinéraire.\n#ITLF #InfoTrafic #Luxembourg #CITA",
+      "published": "2026-10-22T15:40:28.244649+00:00",
+      "category": "new"
+    },
+    {
+      "key": "50e2c68083522bd5442c0566-n-2a7ca643b058bcfdaaf42cc5",
+      "event_key": "50e2c68083522bd5442c0566",
+      "title": "⚠️ LUXEMBOURG – A6 | Véhicule immobilisé",
+      "description": "⚠️ LUXEMBOURG – A6 | Véhicule immobilisé\n📍 Autoroute d'Arlon, vers Arlon\n📏 Secteur concerné : environ 100 m.\n\n⚠️ Restez prudents et adaptez votre itinéraire.\n#ITLF #InfoTrafic #Luxembourg #CITA",
+      "published": "2026-10-22T15:40:28.244649+00:00",
+      "category": "new"
     }
   ],
   "safe_v2_initialized": true,
   "itlf_v3_initialized": true,
   "itlf_v5_initialized": true,
   "last_summary_slot": "2026-10-22T12:00:00+00:00",
-  "last_success": "2026-10-22T12:33:09.004222+00:00",
+  "last_success": "2026-10-22T15:40:28.244649+00:00",
   "stats": {
-    "last_run": "2026-10-22T12:33:09.004222+00:00",
+    "last_run": "2026-10-22T15:40:28.244649+00:00",
     "last_run_counts": {
-      "new": 0,
+      "new": 3,
       "updated": 0,
       "ended": 0,
       "planned": 0,
-      "summary": 1
+      "summary": 0
     },
     "totals": {
-      "new": 0,
+      "new": 3,
       "updated": 0,
       "ended": 0,
       "planned": 0,
       "summary": 1,
-      "runs": 1
+      "runs": 2
     },
-    "active_events": 21,
-    "visible_rss_items": 2
+    "active_events": 19,
+    "visible_rss_items": 3
   }
 }

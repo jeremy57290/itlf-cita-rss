@@ -4,58 +4,43 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Thu, 22 Oct 2026 12:33:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 15:40:28 +0000</lastBuildDate>
 <item>
-<title>🚦 POINT TRAFIC LUXEMBOURG – 22/10 à 14h33</title>
-<description>🚦 POINT TRAFIC LUXEMBOURG – 22/10 à 14h33
+<title>⚠️ LUXEMBOURG – A7 | Véhicule immobilisé</title>
+<description>⚠️ LUXEMBOURG – A7 | Véhicule immobilisé
+📍 Colmar-Berg: sortie depuis Grunewald
+⚠️ 1 voie(s) restreinte(s).
+🛣️ Voie concernée : voie de droite.
+📏 Secteur concerné : environ 100 m.
 
-🚗 Voici les principales perturbations de circulation :
-
-🛣️ A1
-• Véhicule immobilisé – Autoroute de Tréves, vers Trier
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich (1 voie(s) restreinte(s))
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Trier
-• Travaux de maintenance – Autoroute de Tréves, vers Trier
-• Travaux de maintenance – Autoroute de Tréves, vers Trier
-
-🛣️ A13
-• Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
-• Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
-• Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
-• Travaux de maintenance – Collectrice du Sud, vers Petange
-• Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)
-• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
-• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
-• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
-
-🛣️ A4
-• Véhicule immobilisé – Lallange N4: sortie depuis Esch
-
-🛣️ A3
-• Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))
-• Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
-• Travaux – Gasperich: Bettembourg vers Grunewald
-… et 1 autres perturbations en cours.
-
-⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
-🚗 Adaptez votre itinéraire et restez prudents.
+⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-summary-41a8a85b34fe5a58d3f51fc8</guid>
-<pubDate>Thu, 22 Oct 2026 12:33:09 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-701a72bd7e626f4894fd36c0-n-de65824430064362f88172b3</guid>
+<pubDate>Thu, 22 Oct 2026 15:40:28 +0000</pubDate>
 </item>
 <item>
-<title>🚨 LUXEMBOURG – A4 | Véhicule en panne</title>
-<description>🚨 LUXEMBOURG – A4 | Véhicule en panne
-📍 Direction / secteur : Lallange N4: sortie depuis Esch
-ℹ️ Prudence, vérifiez les conditions de circulation.
-📡 Source : CITA Luxembourg
-#ITLF #InfoTrafic #Luxembourg</description>
+<title>⚠️ LUXEMBOURG – A1 | Véhicule immobilisé</title>
+<description>⚠️ LUXEMBOURG – A1 | Véhicule immobilisé
+📍 Autoroute de Tréves, vers Gasperich
+📏 Secteur concerné : environ 100 m.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-939d80641c6c02b6d2749054-n-efe3ef346524bccbf4351e45</guid>
-<pubDate>Thu, 22 Oct 2026 12:08:46 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-f9f2e5aaa88b21054e5a2272-n-b0b7380f57f51f20703f0aba</guid>
+<pubDate>Thu, 22 Oct 2026 15:40:28 +0000</pubDate>
+</item>
+<item>
+<title>⚠️ LUXEMBOURG – A6 | Véhicule immobilisé</title>
+<description>⚠️ LUXEMBOURG – A6 | Véhicule immobilisé
+📍 Autoroute d'Arlon, vers Arlon
+📏 Secteur concerné : environ 100 m.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-50e2c68083522bd5442c0566-n-2a7ca643b058bcfdaaf42cc5</guid>
+<pubDate>Thu, 22 Oct 2026 15:40:28 +0000</pubDate>
 </item>
 </channel></rss>
