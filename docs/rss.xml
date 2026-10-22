@@ -4,19 +4,73 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Thu, 22 Oct 2026 19:29:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 22:38:56 +0000</lastBuildDate>
 <item>
-<title>🚧 LUXEMBOURG – A1 | Travaux de maintenance</title>
-<description>🚧 LUXEMBOURG – A1 | Travaux de maintenance
-📍 Autoroute de Tréves, vers Trier
+<title>⚠️ LUXEMBOURG – A7 | Obstacle sur la chaussée</title>
+<description>⚠️ LUXEMBOURG – A7 | Obstacle sur la chaussée
+📍 Autoroute du Nord, vers Grunewald
 ⚠️ 1 voie(s) restreinte(s).
-🛣️ Voie concernée : voie de droite.
-📏 Secteur concerné : environ 1,5 km.
+🛣️ Voie concernée : voie de gauche.
 
 ⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-98ea3668385477b8a2ac80e3-n-5526e794f7ea7f00dcc0dec9</guid>
-<pubDate>Thu, 22 Oct 2026 19:29:54 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-0642896c4d38da0c953035e1-n-925a1906a6d6c86d15996174</guid>
+<pubDate>Thu, 22 Oct 2026 22:38:56 +0000</pubDate>
+</item>
+<item>
+<title>⚠️ LUXEMBOURG – A1 | Véhicule immobilisé</title>
+<description>⚠️ LUXEMBOURG – A1 | Véhicule immobilisé
+📍 Autoroute de Tréves, vers Trier
+📏 Secteur concerné : environ 100 m.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-c71b83cc0ba6b49d79e51ba9-n-d17dda9191620f80c5b1fce0</guid>
+<pubDate>Thu, 22 Oct 2026 22:38:56 +0000</pubDate>
+</item>
+<item>
+<title>🚦 POINT TRAFIC LUXEMBOURG – 23/10 à 00h38</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 23/10 à 00h38
+
+🚗 Voici les principales perturbations de circulation :
+
+🛣️ A1
+• Véhicule immobilisé – Autoroute de Tréves, vers Trier
+• Travaux de maintenance – Autoroute de Tréves, vers Trier (1 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+
+🛣️ A13
+• Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
+• Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
+• Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
+• Travaux de maintenance – Tranchée couverte Mondorf en direction de Allemagne (2 voie(s) restreinte(s))
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+
+🛣️ A7
+• Obstacle sur la chaussée – Autoroute du Nord, vers Grunewald (1 voie(s) restreinte(s))
+
+🛣️ A3
+• Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
+• Travaux – Gasperich: Bettembourg vers Grunewald
+
+🛣️ A6
+• Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
+
+⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
+🚗 Adaptez votre itinéraire et restez prudents.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-summary-440840eb7cad3125f4ad348e</guid>
+<pubDate>Thu, 22 Oct 2026 22:38:56 +0000</pubDate>
 </item>
 </channel></rss>
