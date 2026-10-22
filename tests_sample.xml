@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<d2:root xmlns:d2="http://datex2.eu/schema/3/situation"><d2:situation><d2:accident id="test-accident-1"><d2:roadName>A3</d2:roadName><d2:overallStartTime>2020-01-01T12:00:00Z</d2:overallStartTime><d2:locationDescription>Exemple fictif, Berchem</d2:locationDescription></d2:accident></d2:situation></d2:root>
