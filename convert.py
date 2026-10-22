@@ -107,7 +107,7 @@ def describe(record, kind, road, direction, restricted, start, end, status):
     if direction:
         parts.append("📍 Direction / secteur : " + direction[:180])
     if restricted:
-        parts.append(f"⚠️ {restricted} voie(s) restreinte(s) selon CITA.")
+        parts.append(f"⚠️ {restricted} voie(s) restreinte(s).")
     # Ne pas inventer de localisation, de cause ni de fermeture.
     comment = ""
     for block in nodes(record, "generalPublicComment"):
@@ -116,13 +116,13 @@ def describe(record, kind, road, direction, restricted, start, end, status):
             comment = candidates[0]
             break
     if comment:
-        parts.append("ℹ️ Précision CITA : " + re.sub(r"\s+", " ", comment)[:240])
+        parts.append("ℹ️ Informations complémentaires : " + re.sub(r"\s+", " ", comment)[:240])
     if start and start > datetime.now(timezone.utc):
         parts.append("🗓️ Début annoncé : " + start.astimezone(timezone(timedelta(hours=2))).strftime("%d/%m/%Y %H:%M") + " (heure indicative locale).")
     if end:
         parts.append("🕒 Fin annoncée : " + end.isoformat())
     parts.extend(["ℹ️ Prudence, vérifiez les conditions de circulation.",
-                  "📡 Source : CITA Luxembourg", "#ITLF #InfoTrafic #Luxembourg"])
+                  "#ITLF #InfoTrafic #Luxembourg #CITA"])
     return heading, "\n".join(parts)
 
 def parse(raw, now):
@@ -188,9 +188,9 @@ def parse(raw, now):
 def make_rss(items, now):
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<rss version="2.0"><channel>',
-             '<title>ITLF – Informations trafic Luxembourg (CITA)</title>',
+             '<title>ITLF – Informations trafic Luxembourg</title>',
              f'<link>{SITE}</link>',
-             '<description>Alertes et évolutions du trafic sur les routes du Luxembourg. Source : CITA.</description>',
+             '<description>Alertes et évolutions du trafic sur les routes du Luxembourg.</description>',
              '<language>fr-LU</language>',
              f'<lastBuildDate>{format_datetime(now)}</lastBuildDate>']
     for item in items:
@@ -229,8 +229,7 @@ def make_summary(current, now, slot):
                                -e.get("restricted", 0), e.get("road", "")))
     local_now = now.astimezone(LOCAL_TZ)
     title = "🚦 POINT TRAFIC LUXEMBOURG – " + local_now.strftime("%d/%m à %Hh%M")
-    lines = [title, "📡 Perturbations toujours signalées dans le flux CITA :",
-             f"{len(active)} événement(s) référencé(s).", ""]
+    lines = [title, "🚗 Voici les principales perturbations de circulation au Luxembourg :", ""]
     for event in active[:SUMMARY_MAX_EVENTS]:
         label = LABELS.get(event["kind"], event["kind"])
         direction = event.get("direction", "")
@@ -241,10 +240,10 @@ def make_summary(current, now, slot):
             detail += f" ({event['restricted']} voie(s) restreinte(s))"
         lines.append(detail)
     if len(active) > SUMMARY_MAX_EVENTS:
-        lines.append(f"… et {len(active) - SUMMARY_MAX_EVENTS} autre(s) événement(s) CITA.")
-    lines.extend(["", "⚠️ Certains signalements peuvent être anciens : leur présence dans CITA ne garantit pas une perturbation récente.",
-                  "ℹ️ Vérifiez la situation avant de prendre la route.",
-                  "Source : CITA Luxembourg | #ITLF #InfoTrafic #Luxembourg"])
+        lines.append(f"… et {len(active) - SUMMARY_MAX_EVENTS} autres perturbations en cours.")
+    lines.extend(["", "⚠️ Certaines perturbations peuvent durer plusieurs jours. Les conditions de circulation peuvent évoluer.",
+                  "ℹ️ Adaptez votre itinéraire et restez prudents.",
+                  "#ITLF #InfoTrafic #Luxembourg #CITA"])
     return {"key": "summary-" + digest(slot), "event_key": "__summary__",
             "title": title, "description": "\n".join(lines),
             "published": now.isoformat()}
@@ -283,7 +282,7 @@ def update(current, state, now):
             is_update = changed
             version_key = key + ("-u-" if is_update else "-n-") + event["fingerprint"]
             title = ("🔄 MISE À JOUR – " + event["title"]) if is_update else event["title"]
-            description = ("🔄 Évolution signalée par CITA.\n" + event["description"]) if is_update else event["description"]
+            description = ("🔄 Évolution de la situation.\n" + event["description"]) if is_update else event["description"]
             new_items.append({"key": version_key, "event_key": key, "title": title,
                               "description": description, "published": now.isoformat()})
         # Garder la dernière signature; migrer les anciennes chaînes en dict.
