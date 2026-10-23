@@ -26,7 +26,7 @@
         "revised": "2026-09-23T14:58:21+00:00",
         "fingerprint": "7c59801b4e1bad49b0d0fd1a"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -55,7 +55,7 @@
         "fingerprint": "1e32277efda044d37ba4e3dd"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 3,
+      "missing": 4,
       "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
@@ -83,7 +83,7 @@
         "fingerprint": "97ab57d2ac53d6ca807b14be"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 3,
+      "missing": 4,
       "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
@@ -115,7 +115,7 @@
         "fingerprint": "7fd974b775d9c71d7cd59667"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 3,
+      "missing": 4,
       "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
@@ -142,7 +142,7 @@
         "revised": "2026-10-20T01:46:13+00:00",
         "fingerprint": "76dd9e52d3797625dcdbdbfe"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -170,7 +170,7 @@
         "revised": "2026-10-05T17:04:30+00:00",
         "fingerprint": "0e689c944b31e12c80cedc14"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -198,7 +198,7 @@
         "revised": "2026-06-18T20:06:54+00:00",
         "fingerprint": "7b87bf6cbe4d283433379a95"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -226,7 +226,7 @@
         "revised": "2026-06-18T20:06:54+00:00",
         "fingerprint": "9f1d81685c4ce51a56df46d0"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -254,7 +254,7 @@
         "revised": "2026-10-21T13:08:36+00:00",
         "fingerprint": "99ba0f8f0387fe2ea3f50bb9"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -282,7 +282,7 @@
         "revised": "2026-10-21T13:08:36+00:00",
         "fingerprint": "8744d073037d45451f53753d"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -310,7 +310,7 @@
         "revised": "2026-08-22T08:09:06+00:00",
         "fingerprint": "a697d7a4e95a206200381172"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -338,7 +338,7 @@
         "revised": "2026-08-22T08:09:06+00:00",
         "fingerprint": "679d2857e551590ccd06df37"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -366,7 +366,7 @@
         "revised": "2026-03-25T14:32:41+00:00",
         "fingerprint": "a86448479ef13787721299a4"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -394,7 +394,7 @@
         "revised": "2026-02-18T04:20:24+00:00",
         "fingerprint": "caef0f173b828dfc536228de"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -422,7 +422,7 @@
         "revised": "2026-10-02T02:09:04+00:00",
         "fingerprint": "1c4929f8f0f3a2ea5e3ce215"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -450,7 +450,7 @@
         "revised": "2026-10-02T02:09:04+00:00",
         "fingerprint": "91251750aad78fd65b411ba1"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -478,7 +478,7 @@
         "revised": "2025-11-07T16:29:06+00:00",
         "fingerprint": "66aa880e4d6786f44fe5a552"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -506,7 +506,7 @@
         "revised": "2025-05-12T08:38:13+00:00",
         "fingerprint": "619a030131c3024cf164c187"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -534,7 +534,7 @@
         "revised": "2025-05-12T08:38:13+00:00",
         "fingerprint": "68bbac6254a7f5ea01a2950a"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -563,7 +563,7 @@
         "fingerprint": "9172090eb61fb9cafd2c8e26"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 3,
+      "missing": 4,
       "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
@@ -591,7 +591,7 @@
         "fingerprint": "6ba213299e47615e11fa6d56"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 3,
+      "missing": 4,
       "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
@@ -621,10 +621,11 @@
         "fingerprint": "de65824430064362f88172b3"
       },
       "last_seen": "2026-10-22T15:40:28.244649+00:00",
-      "missing": 2,
+      "missing": 3,
       "first_missing": "2026-10-22T19:29:54.948913+00:00",
       "announced": true,
-      "planned_announced": false
+      "planned_announced": false,
+      "ended_announced": true
     },
     "f9f2e5aaa88b21054e5a2272": {
       "schema": 5,
@@ -649,10 +650,11 @@
         "fingerprint": "b0b7380f57f51f20703f0aba"
       },
       "last_seen": "2026-10-22T15:40:28.244649+00:00",
-      "missing": 2,
+      "missing": 3,
       "first_missing": "2026-10-22T19:29:54.948913+00:00",
       "announced": true,
-      "planned_announced": false
+      "planned_announced": false,
+      "ended_announced": true
     },
     "50e2c68083522bd5442c0566": {
       "schema": 5,
@@ -677,10 +679,11 @@
         "fingerprint": "2a7ca643b058bcfdaaf42cc5"
       },
       "last_seen": "2026-10-22T15:40:28.244649+00:00",
-      "missing": 2,
+      "missing": 3,
       "first_missing": "2026-10-22T19:29:54.948913+00:00",
       "announced": true,
-      "planned_announced": false
+      "planned_announced": false,
+      "ended_announced": true
     },
     "98ea3668385477b8a2ac80e3": {
       "schema": 5,
@@ -701,10 +704,10 @@
         "start": "2026-10-22T19:14:00+00:00",
         "end": "",
         "created": "2026-10-22T18:42:12+00:00",
-        "revised": "2026-10-22T19:14:43+00:00",
+        "revised": "2026-10-22T23:15:21+00:00",
         "fingerprint": "5526e794f7ea7f00dcc0dec9"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": true,
@@ -729,10 +732,10 @@
         "start": "2026-10-22T17:35:00+00:00",
         "end": "",
         "created": "2026-10-22T17:12:25+00:00",
-        "revised": "2026-10-22T17:47:50+00:00",
+        "revised": "2026-10-22T23:35:26+00:00",
         "fingerprint": "913442b02e8566d15fa9b029"
       },
-      "last_seen": "2026-10-22T22:38:56.370859+00:00",
+      "last_seen": "2026-10-23T00:55:48.540197+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -761,7 +764,7 @@
         "fingerprint": "e2a58d1355ed2a51bd897aca"
       },
       "last_seen": "2026-10-22T19:29:54.948913+00:00",
-      "missing": 1,
+      "missing": 2,
       "first_missing": "2026-10-22T22:38:56.370859+00:00",
       "announced": false,
       "planned_announced": false
@@ -791,8 +794,8 @@
         "fingerprint": "925a1906a6d6c86d15996174"
       },
       "last_seen": "2026-10-22T22:38:56.370859+00:00",
-      "missing": 0,
-      "first_missing": "",
+      "missing": 1,
+      "first_missing": "2026-10-23T00:55:48.540197+00:00",
       "announced": true,
       "planned_announced": false
     },
@@ -819,61 +822,69 @@
         "fingerprint": "d17dda9191620f80c5b1fce0"
       },
       "last_seen": "2026-10-22T22:38:56.370859+00:00",
-      "missing": 0,
-      "first_missing": "",
+      "missing": 1,
+      "first_missing": "2026-10-23T00:55:48.540197+00:00",
       "announced": true,
       "planned_announced": false
     }
   },
   "items": [
     {
-      "key": "0642896c4d38da0c953035e1-n-925a1906a6d6c86d15996174",
-      "event_key": "0642896c4d38da0c953035e1",
-      "title": "⚠️ LUXEMBOURG – A7 | Obstacle sur la chaussée",
-      "description": "⚠️ LUXEMBOURG – A7 | Obstacle sur la chaussée\n📍 Autoroute du Nord, vers Grunewald\n⚠️ 1 voie(s) restreinte(s).\n🛣️ Voie concernée : voie de gauche.\n\n⚠️ Restez prudents et adaptez votre itinéraire.\n#ITLF #InfoTrafic #Luxembourg #CITA",
-      "published": "2026-10-22T22:38:56.370859+00:00",
-      "category": "new"
+      "key": "701a72bd7e626f4894fd36c0-end-fc9d02e4d3a78b82697d7fad",
+      "event_key": "701a72bd7e626f4894fd36c0",
+      "title": "✅ FIN DE SIGNALEMENT – A7",
+      "description": "✅ FIN DE SIGNALEMENT – A7\nLa perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.\n📍 Colmar-Berg: sortie depuis Grunewald\n⚠️ La reprise normale de la circulation reste à confirmer sur place.\n#ITLF #InfoTrafic #Luxembourg #CITA",
+      "published": "2026-10-23T00:55:48.540197+00:00",
+      "category": "ended"
     },
     {
-      "key": "c71b83cc0ba6b49d79e51ba9-n-d17dda9191620f80c5b1fce0",
-      "event_key": "c71b83cc0ba6b49d79e51ba9",
-      "title": "⚠️ LUXEMBOURG – A1 | Véhicule immobilisé",
-      "description": "⚠️ LUXEMBOURG – A1 | Véhicule immobilisé\n📍 Autoroute de Tréves, vers Trier\n📏 Secteur concerné : environ 100 m.\n\n⚠️ Restez prudents et adaptez votre itinéraire.\n#ITLF #InfoTrafic #Luxembourg #CITA",
-      "published": "2026-10-22T22:38:56.370859+00:00",
-      "category": "new"
+      "key": "f9f2e5aaa88b21054e5a2272-end-fc9d02e4d3a78b82697d7fad",
+      "event_key": "f9f2e5aaa88b21054e5a2272",
+      "title": "✅ FIN DE SIGNALEMENT – A1",
+      "description": "✅ FIN DE SIGNALEMENT – A1\nLa perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.\n📍 Autoroute de Tréves, vers Gasperich\n⚠️ La reprise normale de la circulation reste à confirmer sur place.\n#ITLF #InfoTrafic #Luxembourg #CITA",
+      "published": "2026-10-23T00:55:48.540197+00:00",
+      "category": "ended"
     },
     {
-      "key": "summary-440840eb7cad3125f4ad348e",
+      "key": "50e2c68083522bd5442c0566-end-fc9d02e4d3a78b82697d7fad",
+      "event_key": "50e2c68083522bd5442c0566",
+      "title": "✅ FIN DE SIGNALEMENT – A6",
+      "description": "✅ FIN DE SIGNALEMENT – A6\nLa perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.\n📍 Autoroute d'Arlon, vers Arlon\n⚠️ La reprise normale de la circulation reste à confirmer sur place.\n#ITLF #InfoTrafic #Luxembourg #CITA",
+      "published": "2026-10-23T00:55:48.540197+00:00",
+      "category": "ended"
+    },
+    {
+      "key": "summary-1855259a9fc4349f493d2329",
       "event_key": "__summary__",
-      "title": "🚦 POINT TRAFIC LUXEMBOURG – 23/10 à 00h38",
-      "description": "🚦 POINT TRAFIC LUXEMBOURG – 23/10 à 00h38\n\n🚗 Voici les principales perturbations de circulation :\n\n🛣️ A1\n• Véhicule immobilisé – Autoroute de Tréves, vers Trier\n• Travaux de maintenance – Autoroute de Tréves, vers Trier (1 voie(s) restreinte(s))\n• Travaux de maintenance – Autoroute de Tréves, vers Gasperich\n• Travaux de maintenance – Autoroute de Tréves, vers Gasperich\n• Travaux de maintenance – Autoroute de Tréves, vers Gasperich\n• Travaux de maintenance – Autoroute de Tréves, vers Trier\n• Travaux de maintenance – Autoroute de Tréves, vers Trier\n\n🛣️ A13\n• Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))\n• Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))\n• Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))\n• Travaux de maintenance – Tranchée couverte Mondorf en direction de Allemagne (2 voie(s) restreinte(s))\n• Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)\n• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange\n• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange\n• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange\n\n🛣️ A7\n• Obstacle sur la chaussée – Autoroute du Nord, vers Grunewald (1 voie(s) restreinte(s))\n\n🛣️ A3\n• Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))\n• Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))\n• Travaux – Gasperich: Bettembourg vers Grunewald\n\n🛣️ A6\n• Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))\n\n⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.\n🚗 Adaptez votre itinéraire et restez prudents.\n#ITLF #InfoTrafic #Luxembourg #CITA",
-      "published": "2026-10-22T22:38:56.370859+00:00",
+      "title": "🚦 POINT TRAFIC LUXEMBOURG – 23/10 à 02h55",
+      "description": "🚦 POINT TRAFIC LUXEMBOURG – 23/10 à 02h55\n\n🚗 Voici les principales perturbations de circulation :\n\n🛣️ A13\n• Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))\n• Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))\n• Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))\n• Travaux de maintenance – Tranchée couverte Mondorf en direction de Allemagne (2 voie(s) restreinte(s))\n• Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)\n• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange\n• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange\n• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange\n\n🛣️ A1\n• Travaux de maintenance – Autoroute de Tréves, vers Trier (1 voie(s) restreinte(s))\n• Travaux de maintenance – Autoroute de Tréves, vers Gasperich\n• Travaux de maintenance – Autoroute de Tréves, vers Gasperich\n• Travaux de maintenance – Autoroute de Tréves, vers Gasperich\n• Travaux de maintenance – Autoroute de Tréves, vers Trier\n• Travaux de maintenance – Autoroute de Tréves, vers Trier\n\n🛣️ A3\n• Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))\n• Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))\n• Travaux – Gasperich: Bettembourg vers Grunewald\n\n🛣️ A6\n• Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))\n\n⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.\n🚗 Adaptez votre itinéraire et restez prudents.\n#ITLF #InfoTrafic #Luxembourg #CITA",
+      "published": "2026-10-23T00:55:48.540197+00:00",
       "category": "summary"
     }
   ],
   "safe_v2_initialized": true,
   "itlf_v3_initialized": true,
   "itlf_v5_initialized": true,
-  "last_summary_slot": "2026-10-22T22:00:00+00:00",
-  "last_success": "2026-10-22T22:38:56.370859+00:00",
+  "last_summary_slot": "2026-10-23T00:00:00+00:00",
+  "last_success": "2026-10-23T00:55:48.540197+00:00",
   "stats": {
-    "last_run": "2026-10-22T22:38:56.370859+00:00",
+    "last_run": "2026-10-23T00:55:48.540197+00:00",
     "last_run_counts": {
-      "new": 2,
+      "new": 0,
       "updated": 0,
-      "ended": 0,
+      "ended": 3,
       "planned": 0,
       "summary": 1
     },
     "totals": {
       "new": 6,
       "updated": 0,
-      "ended": 0,
+      "ended": 3,
       "planned": 0,
-      "summary": 2,
-      "runs": 4
+      "summary": 3,
+      "runs": 5
     },
-    "active_events": 20,
-    "visible_rss_items": 3
+    "active_events": 18,
+    "visible_rss_items": 4
   }
 }
