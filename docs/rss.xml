@@ -4,44 +4,38 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Sat, 24 Oct 2026 16:50:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 19:05:04 +0000</lastBuildDate>
 <item>
-<title>🚦 POINT TRAFIC LUXEMBOURG – 24/10 à 18h50</title>
-<description>🚦 POINT TRAFIC LUXEMBOURG – 24/10 à 18h50
-
-🚗 Voici les principales perturbations de circulation :
-
-🛣️ A13
-• Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
-• Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
-• Travaux de maintenance – Collectrice du Sud, vers Schengen (2 voie(s) restreinte(s))
-• Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
-• Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)
-• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
-• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
-• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
-
-🛣️ A1
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich (1 voie(s) restreinte(s))
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Trier
-• Travaux de maintenance – Autoroute de Tréves, vers Trier
-
-🛣️ A3
-• Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))
-• Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
-• Travaux – Gasperich: Bettembourg vers Grunewald
-
-🛣️ A6
-• Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
-
-⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
-🚗 Adaptez votre itinéraire et restez prudents.
+<title>✅ FIN DE SIGNALEMENT – A6</title>
+<description>✅ FIN DE SIGNALEMENT – A6
+La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
+📍 Autoroute d'Arlon, vers Gasperich
+⚠️ La reprise normale de la circulation reste à confirmer sur place.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-summary-68d9d0bd22548a95751d3a5f</guid>
-<pubDate>Sat, 24 Oct 2026 16:50:01 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-61d46cef489bcf6460b53635-end-2029c2a3f67373df27bf9097</guid>
+<pubDate>Sat, 24 Oct 2026 19:05:04 +0000</pubDate>
+</item>
+<item>
+<title>✅ FIN DE SIGNALEMENT – A3</title>
+<description>✅ FIN DE SIGNALEMENT – A3
+La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
+📍 Autoroute de Thionville, vers Metz
+⚠️ La reprise normale de la circulation reste à confirmer sur place.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-367dc82bd772bbabbff47500-end-2029c2a3f67373df27bf9097</guid>
+<pubDate>Sat, 24 Oct 2026 19:05:04 +0000</pubDate>
+</item>
+<item>
+<title>✅ FIN DE SIGNALEMENT – A3</title>
+<description>✅ FIN DE SIGNALEMENT – A3
+La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
+📍 Autoroute de Thionville, vers Luxembourg
+⚠️ La reprise normale de la circulation reste à confirmer sur place.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-de3b040c8b99c5bb0efbeb02-end-2029c2a3f67373df27bf9097</guid>
+<pubDate>Sat, 24 Oct 2026 19:05:04 +0000</pubDate>
 </item>
 </channel></rss>
