@@ -26,7 +26,7 @@
         "revised": "2026-09-23T14:58:21+00:00",
         "fingerprint": "7c59801b4e1bad49b0d0fd1a"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -55,7 +55,7 @@
         "fingerprint": "1e32277efda044d37ba4e3dd"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 9,
+      "missing": 10,
       "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
@@ -83,7 +83,7 @@
         "fingerprint": "97ab57d2ac53d6ca807b14be"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 9,
+      "missing": 10,
       "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
@@ -115,7 +115,7 @@
         "fingerprint": "7fd974b775d9c71d7cd59667"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 9,
+      "missing": 10,
       "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
@@ -142,7 +142,7 @@
         "revised": "2026-10-20T01:46:13+00:00",
         "fingerprint": "76dd9e52d3797625dcdbdbfe"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -170,7 +170,7 @@
         "revised": "2026-10-05T17:04:30+00:00",
         "fingerprint": "0e689c944b31e12c80cedc14"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -198,7 +198,7 @@
         "revised": "2026-06-18T20:06:54+00:00",
         "fingerprint": "7b87bf6cbe4d283433379a95"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -226,7 +226,7 @@
         "revised": "2026-06-18T20:06:54+00:00",
         "fingerprint": "9f1d81685c4ce51a56df46d0"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -254,7 +254,7 @@
         "revised": "2026-10-21T13:08:36+00:00",
         "fingerprint": "99ba0f8f0387fe2ea3f50bb9"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -282,7 +282,7 @@
         "revised": "2026-10-21T13:08:36+00:00",
         "fingerprint": "8744d073037d45451f53753d"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -310,7 +310,7 @@
         "revised": "2026-08-22T08:09:06+00:00",
         "fingerprint": "a697d7a4e95a206200381172"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -338,7 +338,7 @@
         "revised": "2026-08-22T08:09:06+00:00",
         "fingerprint": "679d2857e551590ccd06df37"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -366,7 +366,7 @@
         "revised": "2026-03-25T14:32:41+00:00",
         "fingerprint": "a86448479ef13787721299a4"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -394,7 +394,7 @@
         "revised": "2026-02-18T04:20:24+00:00",
         "fingerprint": "caef0f173b828dfc536228de"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -422,7 +422,7 @@
         "revised": "2026-10-02T02:09:04+00:00",
         "fingerprint": "1c4929f8f0f3a2ea5e3ce215"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -450,7 +450,7 @@
         "revised": "2026-10-02T02:09:04+00:00",
         "fingerprint": "91251750aad78fd65b411ba1"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -478,7 +478,7 @@
         "revised": "2025-11-07T16:29:06+00:00",
         "fingerprint": "66aa880e4d6786f44fe5a552"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -506,7 +506,7 @@
         "revised": "2025-05-12T08:38:13+00:00",
         "fingerprint": "619a030131c3024cf164c187"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -534,7 +534,7 @@
         "revised": "2025-05-12T08:38:13+00:00",
         "fingerprint": "68bbac6254a7f5ea01a2950a"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -563,7 +563,7 @@
         "fingerprint": "9172090eb61fb9cafd2c8e26"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 9,
+      "missing": 10,
       "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
@@ -591,7 +591,7 @@
         "fingerprint": "6ba213299e47615e11fa6d56"
       },
       "last_seen": "2026-10-22T12:33:09.004222+00:00",
-      "missing": 9,
+      "missing": 10,
       "first_missing": "2026-10-22T15:40:28.244649+00:00",
       "announced": false,
       "planned_announced": false
@@ -621,7 +621,7 @@
         "fingerprint": "de65824430064362f88172b3"
       },
       "last_seen": "2026-10-22T15:40:28.244649+00:00",
-      "missing": 8,
+      "missing": 9,
       "first_missing": "2026-10-22T19:29:54.948913+00:00",
       "announced": true,
       "planned_announced": false,
@@ -650,7 +650,7 @@
         "fingerprint": "b0b7380f57f51f20703f0aba"
       },
       "last_seen": "2026-10-22T15:40:28.244649+00:00",
-      "missing": 8,
+      "missing": 9,
       "first_missing": "2026-10-22T19:29:54.948913+00:00",
       "announced": true,
       "planned_announced": false,
@@ -679,7 +679,7 @@
         "fingerprint": "2a7ca643b058bcfdaaf42cc5"
       },
       "last_seen": "2026-10-22T15:40:28.244649+00:00",
-      "missing": 8,
+      "missing": 9,
       "first_missing": "2026-10-22T19:29:54.948913+00:00",
       "announced": true,
       "planned_announced": false,
@@ -708,7 +708,7 @@
         "fingerprint": "5526e794f7ea7f00dcc0dec9"
       },
       "last_seen": "2026-10-23T00:55:48.540197+00:00",
-      "missing": 5,
+      "missing": 6,
       "first_missing": "2026-10-23T19:22:05.585576+00:00",
       "announced": true,
       "planned_announced": false,
@@ -737,7 +737,7 @@
         "fingerprint": "913442b02e8566d15fa9b029"
       },
       "last_seen": "2026-10-23T00:55:48.540197+00:00",
-      "missing": 5,
+      "missing": 6,
       "first_missing": "2026-10-23T19:22:05.585576+00:00",
       "announced": false,
       "planned_announced": false
@@ -765,7 +765,7 @@
         "fingerprint": "e2a58d1355ed2a51bd897aca"
       },
       "last_seen": "2026-10-22T19:29:54.948913+00:00",
-      "missing": 7,
+      "missing": 8,
       "first_missing": "2026-10-22T22:38:56.370859+00:00",
       "announced": false,
       "planned_announced": false
@@ -795,7 +795,7 @@
         "fingerprint": "925a1906a6d6c86d15996174"
       },
       "last_seen": "2026-10-22T22:38:56.370859+00:00",
-      "missing": 6,
+      "missing": 7,
       "first_missing": "2026-10-23T00:55:48.540197+00:00",
       "announced": true,
       "planned_announced": false,
@@ -824,7 +824,7 @@
         "fingerprint": "d17dda9191620f80c5b1fce0"
       },
       "last_seen": "2026-10-22T22:38:56.370859+00:00",
-      "missing": 6,
+      "missing": 7,
       "first_missing": "2026-10-23T00:55:48.540197+00:00",
       "announced": true,
       "planned_announced": false,
@@ -853,7 +853,7 @@
         "fingerprint": "97338215430cbbf864025b0c"
       },
       "last_seen": "2026-10-23T05:38:40.243138+00:00",
-      "missing": 5,
+      "missing": 6,
       "first_missing": "2026-10-23T19:22:05.585576+00:00",
       "announced": true,
       "planned_announced": false,
@@ -882,7 +882,7 @@
         "fingerprint": "d76b21ac0da0284a837b4f06"
       },
       "last_seen": "2026-10-23T05:38:40.243138+00:00",
-      "missing": 5,
+      "missing": 6,
       "first_missing": "2026-10-23T19:22:05.585576+00:00",
       "announced": true,
       "planned_announced": false,
@@ -911,7 +911,7 @@
         "fingerprint": "904c21a5ec37255bb5203bbb"
       },
       "last_seen": "2026-10-23T05:38:40.243138+00:00",
-      "missing": 5,
+      "missing": 6,
       "first_missing": "2026-10-23T19:22:05.585576+00:00",
       "announced": true,
       "planned_announced": false,
@@ -940,7 +940,7 @@
         "fingerprint": "a4caaa7a1b7b73ee7bf5de39"
       },
       "last_seen": "2026-10-23T10:29:27.135826+00:00",
-      "missing": 5,
+      "missing": 6,
       "first_missing": "2026-10-23T19:22:05.585576+00:00",
       "announced": true,
       "planned_announced": false,
@@ -969,7 +969,7 @@
         "fingerprint": "539c07cac007ab85536be99c"
       },
       "last_seen": "2026-10-23T10:29:27.135826+00:00",
-      "missing": 5,
+      "missing": 6,
       "first_missing": "2026-10-23T19:22:05.585576+00:00",
       "announced": true,
       "planned_announced": false,
@@ -998,7 +998,7 @@
         "fingerprint": "d1e698da72285fb61040649e"
       },
       "last_seen": "2026-10-23T10:29:27.135826+00:00",
-      "missing": 5,
+      "missing": 6,
       "first_missing": "2026-10-23T19:22:05.585576+00:00",
       "announced": true,
       "planned_announced": false,
@@ -1027,7 +1027,7 @@
         "fingerprint": "ca91e8216cc78311ef9abede"
       },
       "last_seen": "2026-10-23T10:29:27.135826+00:00",
-      "missing": 5,
+      "missing": 6,
       "first_missing": "2026-10-23T19:22:05.585576+00:00",
       "announced": true,
       "planned_announced": false,
@@ -1056,7 +1056,7 @@
         "fingerprint": "d2a9e86263c0e1cfdea1e458"
       },
       "last_seen": "2026-10-23T10:29:27.135826+00:00",
-      "missing": 5,
+      "missing": 6,
       "first_missing": "2026-10-23T19:22:05.585576+00:00",
       "announced": true,
       "planned_announced": false,
@@ -1087,7 +1087,7 @@
         "fingerprint": "f44a49196eb0700044c5ad3b"
       },
       "last_seen": "2026-10-23T10:29:27.135826+00:00",
-      "missing": 5,
+      "missing": 6,
       "first_missing": "2026-10-23T19:22:05.585576+00:00",
       "announced": true,
       "planned_announced": false,
@@ -1115,7 +1115,7 @@
         "revised": "2026-10-23T07:47:20+00:00",
         "fingerprint": "41c7b6874cc774f910d443ac"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": false,
@@ -1146,7 +1146,7 @@
         "fingerprint": "8770ce56da9a57d7567d7bbb"
       },
       "last_seen": "2026-10-23T15:23:17.709365+00:00",
-      "missing": 5,
+      "missing": 6,
       "first_missing": "2026-10-23T19:22:05.585576+00:00",
       "announced": true,
       "planned_announced": false,
@@ -1174,7 +1174,7 @@
         "revised": "2026-10-23T17:53:06+00:00",
         "fingerprint": "7107f7ad96453ac4571041d6"
       },
-      "last_seen": "2026-10-24T19:05:04.412506+00:00",
+      "last_seen": "2026-10-24T21:32:55.690443+00:00",
       "missing": 0,
       "first_missing": "",
       "announced": true,
@@ -1203,7 +1203,7 @@
         "fingerprint": "231c21f471f155cb8f6e06e5"
       },
       "last_seen": "2026-10-23T22:23:26.819388+00:00",
-      "missing": 3,
+      "missing": 4,
       "first_missing": "2026-10-24T00:51:05.799274+00:00",
       "announced": true,
       "planned_announced": false,
@@ -1232,7 +1232,7 @@
         "fingerprint": "86772e5a87f8a62d3eec8300"
       },
       "last_seen": "2026-10-23T22:23:26.819388+00:00",
-      "missing": 3,
+      "missing": 4,
       "first_missing": "2026-10-24T00:51:05.799274+00:00",
       "announced": true,
       "planned_announced": false,
@@ -1261,7 +1261,7 @@
         "fingerprint": "76ceb60cb5f8c648f37ccfd2"
       },
       "last_seen": "2026-10-23T22:23:26.819388+00:00",
-      "missing": 3,
+      "missing": 4,
       "first_missing": "2026-10-24T00:51:05.799274+00:00",
       "announced": true,
       "planned_announced": false,
@@ -1290,10 +1290,11 @@
         "fingerprint": "6bb6843a3c3a6f45a486e72e"
       },
       "last_seen": "2026-10-24T13:29:05.000859+00:00",
-      "missing": 2,
+      "missing": 3,
       "first_missing": "2026-10-24T16:50:01.456573+00:00",
       "announced": true,
-      "planned_announced": false
+      "planned_announced": false,
+      "ended_announced": true
     },
     "95a49f7ec51cdd3d3e6961f0": {
       "schema": 5,
@@ -1318,10 +1319,11 @@
         "fingerprint": "eefb249891f182fa68cc4d04"
       },
       "last_seen": "2026-10-24T13:29:05.000859+00:00",
-      "missing": 2,
+      "missing": 3,
       "first_missing": "2026-10-24T16:50:01.456573+00:00",
       "announced": true,
-      "planned_announced": false
+      "planned_announced": false,
+      "ended_announced": true
     },
     "938f7483a3812d30a4536bc4": {
       "schema": 5,
@@ -1346,7 +1348,7 @@
         "fingerprint": "08cda7deefef818d944584c6"
       },
       "last_seen": "2026-10-24T13:29:05.000859+00:00",
-      "missing": 2,
+      "missing": 3,
       "first_missing": "2026-10-24T16:50:01.456573+00:00",
       "announced": false,
       "planned_announced": false
@@ -1354,27 +1356,19 @@
   },
   "items": [
     {
-      "key": "61d46cef489bcf6460b53635-end-2029c2a3f67373df27bf9097",
-      "event_key": "61d46cef489bcf6460b53635",
-      "title": "✅ FIN DE SIGNALEMENT – A6",
-      "description": "✅ FIN DE SIGNALEMENT – A6\nLa perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.\n📍 Autoroute d'Arlon, vers Gasperich\n⚠️ La reprise normale de la circulation reste à confirmer sur place.\n#ITLF #InfoTrafic #Luxembourg #CITA",
-      "published": "2026-10-24T19:05:04.412506+00:00",
+      "key": "8772b3a17e8c2fc4367bf131-end-f6fd1c1d5af75dd2a306a49c",
+      "event_key": "8772b3a17e8c2fc4367bf131",
+      "title": "✅ FIN DE SIGNALEMENT – A7",
+      "description": "✅ FIN DE SIGNALEMENT – A7\nLa perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.\n📍 Autoroute du Nord, vers Nord\n⚠️ La reprise normale de la circulation reste à confirmer sur place.\n#ITLF #InfoTrafic #Luxembourg #CITA",
+      "published": "2026-10-24T21:32:55.690443+00:00",
       "category": "ended"
     },
     {
-      "key": "367dc82bd772bbabbff47500-end-2029c2a3f67373df27bf9097",
-      "event_key": "367dc82bd772bbabbff47500",
-      "title": "✅ FIN DE SIGNALEMENT – A3",
-      "description": "✅ FIN DE SIGNALEMENT – A3\nLa perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.\n📍 Autoroute de Thionville, vers Metz\n⚠️ La reprise normale de la circulation reste à confirmer sur place.\n#ITLF #InfoTrafic #Luxembourg #CITA",
-      "published": "2026-10-24T19:05:04.412506+00:00",
-      "category": "ended"
-    },
-    {
-      "key": "de3b040c8b99c5bb0efbeb02-end-2029c2a3f67373df27bf9097",
-      "event_key": "de3b040c8b99c5bb0efbeb02",
-      "title": "✅ FIN DE SIGNALEMENT – A3",
-      "description": "✅ FIN DE SIGNALEMENT – A3\nLa perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.\n📍 Autoroute de Thionville, vers Luxembourg\n⚠️ La reprise normale de la circulation reste à confirmer sur place.\n#ITLF #InfoTrafic #Luxembourg #CITA",
-      "published": "2026-10-24T19:05:04.412506+00:00",
+      "key": "95a49f7ec51cdd3d3e6961f0-end-f6fd1c1d5af75dd2a306a49c",
+      "event_key": "95a49f7ec51cdd3d3e6961f0",
+      "title": "✅ FIN DE SIGNALEMENT – A7",
+      "description": "✅ FIN DE SIGNALEMENT – A7\nLa perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.\n📍 Autoroute du Nord, vers Grunewald\n⚠️ La reprise normale de la circulation reste à confirmer sur place.\n#ITLF #InfoTrafic #Luxembourg #CITA",
+      "published": "2026-10-24T21:32:55.690443+00:00",
       "category": "ended"
     }
   ],
@@ -1382,25 +1376,25 @@
   "itlf_v3_initialized": true,
   "itlf_v5_initialized": true,
   "last_summary_slot": "2026-10-24T16:00:00+00:00",
-  "last_success": "2026-10-24T19:05:04.412506+00:00",
+  "last_success": "2026-10-24T21:32:55.690443+00:00",
   "stats": {
-    "last_run": "2026-10-24T19:05:04.412506+00:00",
+    "last_run": "2026-10-24T21:32:55.690443+00:00",
     "last_run_counts": {
       "new": 0,
       "updated": 0,
-      "ended": 3,
+      "ended": 2,
       "planned": 0,
       "summary": 0
     },
     "totals": {
       "new": 22,
       "updated": 0,
-      "ended": 19,
+      "ended": 21,
       "planned": 0,
       "summary": 7,
-      "runs": 16
+      "runs": 17
     },
     "active_events": 18,
-    "visible_rss_items": 3
+    "visible_rss_items": 2
   }
 }
