@@ -4,57 +4,29 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Sun, 25 Oct 2026 16:01:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 18:53:16 +0000</lastBuildDate>
 <item>
-<title>🚨 LUXEMBOURG – A7 | Accident</title>
-<description>🚨 LUXEMBOURG – A7 | Accident
-📍 Autoroute du Nord, vers Nord
+<title>⚠️ LUXEMBOURG – A4 | Véhicule immobilisé</title>
+<description>⚠️ LUXEMBOURG – A4 | Véhicule immobilisé
+📍 Autoroute d'Esch, vers Hollerich
 🛣️ Voie concernée : bande d’arrêt d’urgence.
-
-⚠️ Restez prudents et adaptez votre itinéraire.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-464d0887b2d971e229d8f866-n-d052d8f258eb66ff589ecee2</guid>
-<pubDate>Sun, 25 Oct 2026 16:01:26 +0000</pubDate>
-</item>
-<item>
-<title>⚠️ LUXEMBOURG – A13 | Véhicule immobilisé</title>
-<description>⚠️ LUXEMBOURG – A13 | Véhicule immobilisé
-📍 Collectrice du Sud, vers Petange
-⚠️ 1 voie(s) restreinte(s).
-🛣️ Voie concernée : bande d’arrêt d’urgence, voie de gauche.
 📏 Secteur concerné : environ 100 m.
 
 ⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-8607b205d0b76e0b1edd626f-n-3cc612c2e7862ecc11074df0</guid>
-<pubDate>Sun, 25 Oct 2026 16:01:26 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-d60c656a4f9735dd2544098a-n-5030e82c834555fc8d07a64c</guid>
+<pubDate>Sun, 25 Oct 2026 18:53:16 +0000</pubDate>
 </item>
 <item>
-<title>⚠️ LUXEMBOURG – A1 | Véhicule immobilisé</title>
-<description>⚠️ LUXEMBOURG – A1 | Véhicule immobilisé
-📍 Autoroute de Tréves, vers Trier
-⚠️ 1 voie(s) restreinte(s).
-🛣️ Voie concernée : bande d’arrêt d’urgence, voie de gauche.
-
-⚠️ Restez prudents et adaptez votre itinéraire.
+<title>✅ FIN DE SIGNALEMENT – A6</title>
+<description>✅ FIN DE SIGNALEMENT – A6
+La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
+📍 Autoroute d'Arlon, vers Arlon
+⚠️ La reprise normale de la circulation reste à confirmer sur place.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-95145d0b1f8fc035fcb64f07-n-8d974ca54ff2715294474bfc</guid>
-<pubDate>Sun, 25 Oct 2026 16:01:26 +0000</pubDate>
-</item>
-<item>
-<title>⚠️ LUXEMBOURG – A1 | Obstacle sur la chaussée</title>
-<description>⚠️ LUXEMBOURG – A1 | Obstacle sur la chaussée
-📍 Autoroute de Tréves, vers Trier
-⚠️ 2 voie(s) restreinte(s).
-🛣️ Voie concernée : bande d’arrêt d’urgence, voie de gauche, voie de droite.
-
-⚠️ Restez prudents et adaptez votre itinéraire.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-3ea7f1c016664c4ac49e0b78-n-a5917430c2cf5a6cb2da97b5</guid>
-<pubDate>Sun, 25 Oct 2026 16:01:26 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-cdc58f3f9f4315c74014ff58-end-245790ae559cacf2b535991d</guid>
+<pubDate>Sun, 25 Oct 2026 18:53:16 +0000</pubDate>
 </item>
 </channel></rss>
