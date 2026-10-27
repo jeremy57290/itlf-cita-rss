@@ -4,98 +4,91 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Tue, 27 Oct 2026 07:43:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 13:36:14 +0000</lastBuildDate>
 <item>
-<title>🚧 LUXEMBOURG – A1 | Travaux de maintenance</title>
-<description>🚧 LUXEMBOURG – A1 | Travaux de maintenance
-📍 Autoroute de Tréves, vers Trier
-⚠️ 1 voie(s) restreinte(s).
-🛣️ Voie concernée : bande d’arrêt d’urgence, voie de gauche.
-📏 Secteur concerné : environ 2,0 km.
+<title>🚧 LUXEMBOURG – A7 | Travaux de maintenance</title>
+<description>🚧 LUXEMBOURG – A7 | Travaux de maintenance
+📍 Autoroute du Nord, vers Grunewald
+⚠️ 2 voie(s) restreinte(s).
+🛣️ Voie concernée : bande d’arrêt d’urgence, voie de gauche, voie de droite.
+📏 Secteur concerné : environ 6,8 km.
+ℹ️ TME - Fermeture FN - Maintenance
 
 ⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-52e37bb05c5a6387a3229dde-n-43aef92d4b13c77fd561a01e</guid>
-<pubDate>Tue, 27 Oct 2026 07:43:07 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-04d6b1a173fefa34f15f3351-n-8a93b7e553d7ef378fb89471</guid>
+<pubDate>Tue, 27 Oct 2026 13:36:14 +0000</pubDate>
+</item>
+<item>
+<title>🚧 LUXEMBOURG – A3 | Travaux de maintenance</title>
+<description>🚧 LUXEMBOURG – A3 | Travaux de maintenance
+📍 Livange: entrée vers Gasperich
+🛣️ Voie concernée : bande d’arrêt d’urgence.
+📏 Secteur concerné : environ 514 m.
+ℹ️ Ajustement caméra A3 MV 6120
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-4067779f2997fd1e26ad80d6-n-48322e996816082e1c235030</guid>
+<pubDate>Tue, 27 Oct 2026 13:36:14 +0000</pubDate>
 </item>
 <item>
 <title>🚧 LUXEMBOURG – A13 | Travaux de maintenance</title>
 <description>🚧 LUXEMBOURG – A13 | Travaux de maintenance
-📍 Collectrice du Sud, vers Petange
+📍 Collectrice du Sud, vers Schengen
 ⚠️ 1 voie(s) restreinte(s).
 🛣️ Voie concernée : voie de droite.
-📏 Secteur concerné : environ 5,7 km.
+📏 Secteur concerné : environ 6,5 km.
+ℹ️ Chantier Mobile Biischt
 
 ⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-3df35278c3b8084183be6b36-n-345d8c3b84d3b77a3ea4a7cf</guid>
-<pubDate>Tue, 27 Oct 2026 07:43:07 +0000</pubDate>
-</item>
-<item>
-<title>🚨 LUXEMBOURG – A4 | Accident</title>
-<description>🚨 LUXEMBOURG – A4 | Accident
-📍 Autoroute d'Esch, vers Hollerich
-🛣️ Voie concernée : bande d’arrêt d’urgence.
-
-⚠️ Restez prudents et adaptez votre itinéraire.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-a021a8abb339e37d9d40c6a6-n-122b037df68c107083c5b325</guid>
-<pubDate>Tue, 27 Oct 2026 07:43:07 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-8bf922caadade25506c95cf5-n-31ec3947515ecb2069b298fd</guid>
+<pubDate>Tue, 27 Oct 2026 13:36:14 +0000</pubDate>
 </item>
 <item>
 <title>🚧 LUXEMBOURG – A1 | Travaux de maintenance</title>
 <description>🚧 LUXEMBOURG – A1 | Travaux de maintenance
-📍 Autoroute de Tréves, vers Trier
+📍 Gasperich: Grunewald vers Bettembourg
+⚠️ 1 voie(s) restreinte(s).
+🛣️ Voie concernée : bande d’arrêt d’urgence, voie de droite.
+📏 Secteur concerné : environ 1,5 km.
+ℹ️ Nettoyage avaloire
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-5e6c6096b2a3a64e5c10a617-n-64ce43add86603378682ff89</guid>
+<pubDate>Tue, 27 Oct 2026 13:36:14 +0000</pubDate>
+</item>
+<item>
+<title>🚧 LUXEMBOURG – A1 | Travaux de maintenance</title>
+<description>🚧 LUXEMBOURG – A1 | Travaux de maintenance
+📍 Autoroute de Tréves, vers Gasperich
 ⚠️ 1 voie(s) restreinte(s).
 🛣️ Voie concernée : voie de droite.
-📏 Secteur concerné : environ 5,0 km.
+📏 Secteur concerné : environ 8,1 km.
 
 ⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-a44abb6de10d2754d9ed0ddd-n-7ab5d98f5128600cbc54fda5</guid>
-<pubDate>Tue, 27 Oct 2026 07:43:07 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-98f6f622ef2e7bcbcef6953d-n-babbff8370ab26d010a0e10a</guid>
+<pubDate>Tue, 27 Oct 2026 13:36:14 +0000</pubDate>
 </item>
 <item>
-<title>🚧 LUXEMBOURG – A6 | Travaux de maintenance</title>
-<description>🚧 LUXEMBOURG – A6 | Travaux de maintenance
-📍 Autoroute d'Arlon, vers Arlon
-⚠️ 1 voie(s) restreinte(s).
-🛣️ Voie concernée : voie de droite.
-📏 Secteur concerné : environ 537 m.
-
-⚠️ Restez prudents et adaptez votre itinéraire.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-9c224235003bf4547c1858de-n-2453a907b72c475d12a62d4f</guid>
-<pubDate>Tue, 27 Oct 2026 07:43:07 +0000</pubDate>
-</item>
-<item>
-<title>⚠️ LUXEMBOURG – A1 | Véhicule immobilisé</title>
-<description>⚠️ LUXEMBOURG – A1 | Véhicule immobilisé
-📍 Autoroute de Tréves, vers Trier
-🛣️ Voie concernée : bande d’arrêt d’urgence.
-
-⚠️ Restez prudents et adaptez votre itinéraire.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-3304f874dbc3c4ca0cbd9688-n-3ac207739e014341b44ac65a</guid>
-<pubDate>Tue, 27 Oct 2026 07:43:07 +0000</pubDate>
-</item>
-<item>
-<title>🚦 POINT TRAFIC LUXEMBOURG – 27/10 à 08h43</title>
-<description>🚦 POINT TRAFIC LUXEMBOURG – 27/10 à 08h43
+<title>🚦 POINT TRAFIC LUXEMBOURG – 27/10 à 14h36</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 27/10 à 14h36
 
 🚗 Voici les principales perturbations de circulation :
 
 🛣️ A1
-• Véhicule immobilisé – Autoroute de Tréves, vers Trier
 • Obstacle sur la chaussée – Autoroute de Tréves, vers Trier
-• Travaux de maintenance – Autoroute de Tréves, vers Trier (1 voie(s) restreinte(s))
-• Travaux de maintenance – Autoroute de Tréves, vers Trier (1 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich (1 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich (1 voie(s) restreinte(s))
+• Travaux de maintenance – Gasperich: Grunewald vers Bettembourg (1 voie(s) restreinte(s))
 • Travaux de maintenance – Autoroute de Tréves, vers Gasperich
 • Travaux de maintenance – Autoroute de Tréves, vers Gasperich
 • Travaux de maintenance – Autoroute de Tréves, vers Gasperich
@@ -104,27 +97,25 @@
 
 🛣️ A13
 • Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
-• Travaux de maintenance – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
 • Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
+• Travaux de maintenance – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
 • Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
 • Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)
 • Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
 • Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
 • Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
 
-🛣️ A4
-• Accident – Autoroute d'Esch, vers Hollerich
-
 🛣️ A3
 • Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))
 • Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
-… et 3 autres perturbations en cours.
+• Travaux – Gasperich: Bettembourg vers Grunewald
+… et 5 autres perturbations en cours.
 
 ⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
 🚗 Adaptez votre itinéraire et restez prudents.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-summary-8e1240207f954c12e6cb922e</guid>
-<pubDate>Tue, 27 Oct 2026 07:43:07 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-summary-10a61e80212c21b99b8a43c7</guid>
+<pubDate>Tue, 27 Oct 2026 13:36:14 +0000</pubDate>
 </item>
 </channel></rss>
