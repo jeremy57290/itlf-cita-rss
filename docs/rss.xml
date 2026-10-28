@@ -4,37 +4,34 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Wed, 28 Oct 2026 01:49:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 07:31:58 +0000</lastBuildDate>
 <item>
-<title>✅ FIN DE SIGNALEMENT – A1</title>
-<description>✅ FIN DE SIGNALEMENT – A1
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute de Tréves, vers Trier
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
+<title>🚧 LUXEMBOURG – A6 | Travaux de maintenance</title>
+<description>🚧 LUXEMBOURG – A6 | Travaux de maintenance
+📍 Autoroute d'Arlon, vers Arlon
+⚠️ 1 voie(s) restreinte(s).
+🛣️ Voie concernée : voie de droite.
+📏 Secteur concerné : environ 599 m.
+ℹ️ OA1004 - Raccord enrobé
+
+⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-91d971fda580ddd5d086fa4d-end-d9cd275919001a3c553b0a01</guid>
-<pubDate>Wed, 28 Oct 2026 01:49:08 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-70b5300b3a7d840f11c9b1aa-n-077f6cd1754f20ad94ceb1ea</guid>
+<pubDate>Wed, 28 Oct 2026 07:31:58 +0000</pubDate>
 </item>
 <item>
-<title>✅ FIN DE SIGNALEMENT – A1</title>
-<description>✅ FIN DE SIGNALEMENT – A1
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute de Tréves, vers Gasperich
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-bac668c96d46a716035072f8-end-d9cd275919001a3c553b0a01</guid>
-<pubDate>Wed, 28 Oct 2026 01:49:08 +0000</pubDate>
-</item>
-<item>
-<title>🚦 POINT TRAFIC LUXEMBOURG – 28/10 à 02h49</title>
-<description>🚦 POINT TRAFIC LUXEMBOURG – 28/10 à 02h49
+<title>🚦 POINT TRAFIC LUXEMBOURG – 28/10 à 08h31</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 28/10 à 08h31
 
 🚗 Voici les principales perturbations de circulation :
 
 🛣️ A1
 • Obstacle sur la chaussée – Autoroute de Tréves, vers Trier
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich (1 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich (1 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Tréves, vers Trier (1 voie(s) restreinte(s))
+• Travaux de maintenance – Potaschberg: sortie depuis Grunewald (1 voie(s) restreinte(s))
 • Travaux de maintenance – Autoroute de Tréves, vers Gasperich
 • Travaux de maintenance – Autoroute de Tréves, vers Gasperich
 • Travaux de maintenance – Autoroute de Tréves, vers Gasperich
@@ -44,6 +41,7 @@ La perturbation précédemment signalée ne figure plus parmi les informations d
 🛣️ A13
 • Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
 • Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
+• Travaux de maintenance – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
 • Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
 • Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)
 • Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
@@ -53,20 +51,13 @@ La perturbation précédemment signalée ne figure plus parmi les informations d
 🛣️ A3
 • Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))
 • Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
-• Travaux – Gasperich: Bettembourg vers Grunewald
-
-🛣️ A6
-• Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
-
-🛣️ A7
-• Travaux de maintenance – Autoroute du Nord, vers Grunewald (2 voie(s) restreinte(s))
-• Travaux de maintenance – Tunnel Mersch en direction de Grunewald
+… et 4 autres perturbations en cours.
 
 ⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
 🚗 Adaptez votre itinéraire et restez prudents.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-summary-737178c52f33096ca1d1c745</guid>
-<pubDate>Wed, 28 Oct 2026 01:49:08 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-summary-59cf96bcd015503e4a6d7c3b</guid>
+<pubDate>Wed, 28 Oct 2026 07:31:58 +0000</pubDate>
 </item>
 </channel></rss>
