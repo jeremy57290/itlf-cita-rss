@@ -4,54 +4,17 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Tue, 27 Oct 2026 22:48:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 01:49:08 +0000</lastBuildDate>
 <item>
-<title>🚧 LUXEMBOURG – B40 | Travaux de maintenance</title>
-<description>🚧 LUXEMBOURG – B40 | Travaux de maintenance
-📍 H-TMI-R
-⚠️ 1 voie(s) restreinte(s).
-🛣️ Voie concernée : voie de gauche.
-📏 Secteur concerné : environ 195 m.
-
-⚠️ Restez prudents et adaptez votre itinéraire.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-b2a13b62551fa5a27e4d97e1-n-64880c43e9fd09c4efa8f86a</guid>
-<pubDate>Tue, 27 Oct 2026 22:48:02 +0000</pubDate>
-</item>
-<item>
-<title>🚧 LUXEMBOURG – B40 | Travaux de maintenance</title>
-<description>🚧 LUXEMBOURG – B40 | Travaux de maintenance
-📍 R-TMI-H
-📏 Secteur concerné : environ 195 m.
-
-⚠️ Restez prudents et adaptez votre itinéraire.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-49db4de1f8a33461591cfefc-n-ee464fa43ff0be333f775d1b</guid>
-<pubDate>Tue, 27 Oct 2026 22:48:02 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A13</title>
-<description>✅ FIN DE SIGNALEMENT – A13
+<title>✅ FIN DE SIGNALEMENT – A1</title>
+<description>✅ FIN DE SIGNALEMENT – A1
 La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Tunnel de Ehlerange en direction de Sarre (vers Allemagne)
+📍 Autoroute de Tréves, vers Trier
 ⚠️ La reprise normale de la circulation reste à confirmer sur place.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-8037865b1e8a667dafdb5028-end-a521a70e6a54e8620bde0524</guid>
-<pubDate>Tue, 27 Oct 2026 22:48:02 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A6</title>
-<description>✅ FIN DE SIGNALEMENT – A6
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute d'Arlon, vers Gasperich
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-9ce586ced35812e42d06f9c7-end-a521a70e6a54e8620bde0524</guid>
-<pubDate>Tue, 27 Oct 2026 22:48:02 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-91d971fda580ddd5d086fa4d-end-d9cd275919001a3c553b0a01</guid>
+<pubDate>Wed, 28 Oct 2026 01:49:08 +0000</pubDate>
 </item>
 <item>
 <title>✅ FIN DE SIGNALEMENT – A1</title>
@@ -61,40 +24,49 @@ La perturbation précédemment signalée ne figure plus parmi les informations d
 ⚠️ La reprise normale de la circulation reste à confirmer sur place.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-f1e78b78023faf0e18b8f88f-end-a521a70e6a54e8620bde0524</guid>
-<pubDate>Tue, 27 Oct 2026 22:48:02 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-bac668c96d46a716035072f8-end-d9cd275919001a3c553b0a01</guid>
+<pubDate>Wed, 28 Oct 2026 01:49:08 +0000</pubDate>
 </item>
 <item>
-<title>✅ FIN DE SIGNALEMENT – A1</title>
-<description>✅ FIN DE SIGNALEMENT – A1
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute de Tréves, vers Gasperich
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
+<title>🚦 POINT TRAFIC LUXEMBOURG – 28/10 à 02h49</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 28/10 à 02h49
+
+🚗 Voici les principales perturbations de circulation :
+
+🛣️ A1
+• Obstacle sur la chaussée – Autoroute de Tréves, vers Trier
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+
+🛣️ A13
+• Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
+• Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
+• Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+
+🛣️ A3
+• Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
+• Travaux – Gasperich: Bettembourg vers Grunewald
+
+🛣️ A6
+• Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
+
+🛣️ A7
+• Travaux de maintenance – Autoroute du Nord, vers Grunewald (2 voie(s) restreinte(s))
+• Travaux de maintenance – Tunnel Mersch en direction de Grunewald
+
+⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
+🚗 Adaptez votre itinéraire et restez prudents.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-cf2494c49a5b85795c301d17-end-a521a70e6a54e8620bde0524</guid>
-<pubDate>Tue, 27 Oct 2026 22:48:02 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A3</title>
-<description>✅ FIN DE SIGNALEMENT – A3
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute de Thionville, vers Luxembourg
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-30643d88ed8dfafca69c4199-end-a521a70e6a54e8620bde0524</guid>
-<pubDate>Tue, 27 Oct 2026 22:48:02 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A6</title>
-<description>✅ FIN DE SIGNALEMENT – A6
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute d'Arlon, vers Arlon
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-b7184b06924098e06e491a67-end-a521a70e6a54e8620bde0524</guid>
-<pubDate>Tue, 27 Oct 2026 22:48:02 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-summary-737178c52f33096ca1d1c745</guid>
+<pubDate>Wed, 28 Oct 2026 01:49:08 +0000</pubDate>
 </item>
 </channel></rss>
