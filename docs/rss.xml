@@ -4,17 +4,59 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Wed, 28 Oct 2026 14:24:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 19:42:14 +0000</lastBuildDate>
 <item>
-<title>⚠️ LUXEMBOURG – A13 | Véhicule immobilisé</title>
-<description>⚠️ LUXEMBOURG – A13 | Véhicule immobilisé
-📍 Kayl: sortie depuis Bettembourg
-📏 Secteur concerné : environ 59 m.
+<title>🚧 LUXEMBOURG – A1 | Travaux de maintenance</title>
+<description>🚧 LUXEMBOURG – A1 | Travaux de maintenance
+📍 Hamm: entrée vers Gasperich
+⚠️ 1 voie(s) restreinte(s).
+🛣️ Voie concernée : bande d’arrêt d’urgence, voie de droite.
+📏 Secteur concerné : environ 212 m.
 
 ⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-cb0606f32269b37c58c5e72c-n-8864d78a981e1c0325b2dacf</guid>
-<pubDate>Wed, 28 Oct 2026 14:24:12 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-1555114fe125f05080be3816-n-a11af99ffed93c6022b7c013</guid>
+<pubDate>Wed, 28 Oct 2026 19:42:14 +0000</pubDate>
+</item>
+<item>
+<title>🚦 POINT TRAFIC LUXEMBOURG – 28/10 à 20h42</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 28/10 à 20h42
+
+🚗 Voici les principales perturbations de circulation :
+
+🛣️ A1
+• Obstacle sur la chaussée – Autoroute de Tréves, vers Trier
+• Travaux de maintenance – Hamm: entrée vers Gasperich (1 voie(s) restreinte(s))
+• Travaux de maintenance – Tunnel de Howald en direction de Trèves (vers Allemagne) (1 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+
+🛣️ A13
+• Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
+• Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
+• Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+
+🛣️ A3
+• Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
+• Travaux – Gasperich: Bettembourg vers Grunewald
+
+🛣️ A6
+• Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
+
+⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
+🚗 Adaptez votre itinéraire et restez prudents.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-summary-3ca81cdb3773dd140af70ce2</guid>
+<pubDate>Wed, 28 Oct 2026 19:42:14 +0000</pubDate>
 </item>
 </channel></rss>
