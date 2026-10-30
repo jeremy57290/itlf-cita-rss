@@ -4,30 +4,38 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Thu, 29 Oct 2026 20:41:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 00:23:25 +0000</lastBuildDate>
 <item>
-<title>⚠️ LUXEMBOURG – A1 | Véhicule immobilisé</title>
-<description>⚠️ LUXEMBOURG – A1 | Véhicule immobilisé
-📍 Grunewald: Gasperich vers Friedhof
-📏 Secteur concerné : environ 100 m.
-
-⚠️ Restez prudents et adaptez votre itinéraire.
+<title>✅ FIN DE SIGNALEMENT – A7</title>
+<description>✅ FIN DE SIGNALEMENT – A7
+La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
+📍 Autoroute du Nord, vers Grunewald
+⚠️ La reprise normale de la circulation reste à confirmer sur place.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-0c70bdb89bb61b3bcf804eff-n-c8b93dddcc70299b98551a2d</guid>
-<pubDate>Thu, 29 Oct 2026 20:41:24 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-04d6b1a173fefa34f15f3351-end-7c9e1323a3e46fed05bbc007</guid>
+<pubDate>Fri, 30 Oct 2026 00:23:25 +0000</pubDate>
 </item>
 <item>
-<title>⚠️ LUXEMBOURG – A3 | Véhicule immobilisé</title>
-<description>⚠️ LUXEMBOURG – A3 | Véhicule immobilisé
-📍 Autoroute de Thionville, vers Luxembourg
-⚠️ 3 voie(s) restreinte(s).
-🛣️ Voie concernée : voie de gauche, voie centrale.
-
-⚠️ Restez prudents et adaptez votre itinéraire.
+<title>✅ FIN DE SIGNALEMENT – A6</title>
+<description>✅ FIN DE SIGNALEMENT – A6
+La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
+📍 Autoroute d'Arlon, vers Arlon
+⚠️ La reprise normale de la circulation reste à confirmer sur place.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-8b4e7fa95e553f5fd603c150-n-6b71d3e17976822c0f6ba046</guid>
-<pubDate>Thu, 29 Oct 2026 20:41:24 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-70b5300b3a7d840f11c9b1aa-end-7c9e1323a3e46fed05bbc007</guid>
+<pubDate>Fri, 30 Oct 2026 00:23:25 +0000</pubDate>
+</item>
+<item>
+<title>✅ FIN DE SIGNALEMENT – A13</title>
+<description>✅ FIN DE SIGNALEMENT – A13
+La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
+📍 Kayl: sortie depuis Bettembourg
+⚠️ La reprise normale de la circulation reste à confirmer sur place.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-cb0606f32269b37c58c5e72c-end-7c9e1323a3e46fed05bbc007</guid>
+<pubDate>Fri, 30 Oct 2026 00:23:25 +0000</pubDate>
 </item>
 </channel></rss>
