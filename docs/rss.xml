@@ -4,12 +4,33 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Fri, 06 Nov 2026 07:22:39 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 15:12:25 +0000</lastBuildDate>
 <item>
-<title>🚦 POINT TRAFIC LUXEMBOURG – 06/11 à 08h22</title>
-<description>🚦 POINT TRAFIC LUXEMBOURG – 06/11 à 08h22
+<title>🚨 LUXEMBOURG – A1 | Accident</title>
+<description>🚨 LUXEMBOURG – A1 | Accident
+📍 Flaxweiler. sortie depuis Grunewald
+⚠️ 1 voie(s) restreinte(s).
+🛣️ Voie concernée : bande d’arrêt d’urgence, voie de droite.
+📏 Secteur concerné : environ 344 m.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-bc880c7091770ee2d62ce8cf-n-28f7f46cdcf99cdfeadb9931</guid>
+<pubDate>Fri, 06 Nov 2026 15:12:25 +0000</pubDate>
+</item>
+<item>
+<title>🚦 POINT TRAFIC LUXEMBOURG – 06/11 à 16h12</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 06/11 à 16h12
 
 🚗 Voici les principales perturbations de circulation :
+
+🛣️ A1
+• Accident – Flaxweiler. sortie depuis Grunewald (1 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
 
 🛣️ A13
 • Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
@@ -28,17 +49,11 @@
 🛣️ A6
 • Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
 
-🛣️ A1
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Trier
-• Travaux de maintenance – Autoroute de Tréves, vers Trier
-
 ⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
 🚗 Adaptez votre itinéraire et restez prudents.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-summary-4f622db534f0301eff496662</guid>
-<pubDate>Fri, 06 Nov 2026 07:22:39 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-summary-4729018e88375904e2e86ebc</guid>
+<pubDate>Fri, 06 Nov 2026 15:12:25 +0000</pubDate>
 </item>
 </channel></rss>
