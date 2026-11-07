@@ -4,55 +4,31 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Fri, 06 Nov 2026 20:54:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 00:30:05 +0000</lastBuildDate>
 <item>
-<title>⚠️ LUXEMBOURG – A6 | Obstacle sur la chaussée</title>
-<description>⚠️ LUXEMBOURG – A6 | Obstacle sur la chaussée
-📍 Autoroute d'Arlon, vers Gasperich
-📏 Secteur concerné : environ 4,3 km.
-ℹ️ Parechoc
-
-⚠️ Restez prudents et adaptez votre itinéraire.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-94acd593984ad01b9fe54367-n-7f4d4f16d549deb69b7a7f84</guid>
-<pubDate>Fri, 06 Nov 2026 20:54:19 +0000</pubDate>
-</item>
-<item>
-<title>⚠️ LUXEMBOURG – A4 | Véhicule immobilisé</title>
-<description>⚠️ LUXEMBOURG – A4 | Véhicule immobilisé
-📍 Autoroute d'Esch, vers Esch
+<title>🚨 LUXEMBOURG – A13 | Accident</title>
+<description>🚨 LUXEMBOURG – A13 | Accident
+📍 Collectrice du Sud, vers Petange
 🛣️ Voie concernée : bande d’arrêt d’urgence.
 
 ⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-eaa8ab7f442f3cdc95e35376-n-6651a6e7c8f292ef4886212d</guid>
-<pubDate>Fri, 06 Nov 2026 20:54:19 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-2883d53dec4ff5e281a10918-n-a6e01568c1a0fad8663622b9</guid>
+<pubDate>Sat, 07 Nov 2026 00:30:05 +0000</pubDate>
 </item>
 <item>
-<title>⚠️ LUXEMBOURG – A3 | Véhicule immobilisé</title>
-<description>⚠️ LUXEMBOURG – A3 | Véhicule immobilisé
-📍 Autoroute de Thionville, vers Metz
-🛣️ Voie concernée : bande d’arrêt d’urgence.
+<title>⚠️ LUXEMBOURG – A7 | Véhicule immobilisé</title>
+<description>⚠️ LUXEMBOURG – A7 | Véhicule immobilisé
+📍 Tunnel Grouft en direction de Grunewald
+⚠️ 1 voie(s) restreinte(s).
+🛣️ Voie concernée : voie de gauche.
+📏 Secteur concerné : environ 99 m.
 
 ⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-74bcade3fe28de8f68fc91af-n-0e7630d14e7145b371a383ae</guid>
-<pubDate>Fri, 06 Nov 2026 20:54:19 +0000</pubDate>
-</item>
-<item>
-<title>⚠️ LUXEMBOURG – A3 | Véhicule immobilisé</title>
-<description>⚠️ LUXEMBOURG – A3 | Véhicule immobilisé
-📍 Autoroute de Thionville, vers Metz
-🛣️ Voie concernée : bande d’arrêt d’urgence.
-📏 Secteur concerné : environ 88 m.
-
-⚠️ Restez prudents et adaptez votre itinéraire.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-8601d87e03eba95c363ac320-n-f84875a3cc7fbe1ad30c30b1</guid>
-<pubDate>Fri, 06 Nov 2026 20:54:19 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-396de350518acb9bb5a86fe5-n-4ef901bb6cf36e3a33dad9d9</guid>
+<pubDate>Sat, 07 Nov 2026 00:30:05 +0000</pubDate>
 </item>
 </channel></rss>
