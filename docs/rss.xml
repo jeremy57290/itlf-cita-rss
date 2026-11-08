@@ -4,17 +4,85 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Sun, 08 Nov 2026 06:53:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 13:55:43 +0000</lastBuildDate>
 <item>
-<title>🚨 LUXEMBOURG – A6 | Accident</title>
-<description>🚨 LUXEMBOURG – A6 | Accident
-📍 Autoroute d'Arlon, vers Arlon
-🛣️ Voie concernée : bande d’arrêt d’urgence.
+<title>⚠️ LUXEMBOURG – A13 | Véhicule immobilisé</title>
+<description>⚠️ LUXEMBOURG – A13 | Véhicule immobilisé
+📍 Collectrice du Sud, vers Petange
+📏 Secteur concerné : environ 100 m.
 
 ⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-68f39d3089da1806325170f0-n-c64c02bd0251652d27824a6e</guid>
-<pubDate>Sun, 08 Nov 2026 06:53:01 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-2ae7ec250f356cc824130d78-n-568455dab8022f5540ea150a</guid>
+<pubDate>Sun, 08 Nov 2026 13:55:43 +0000</pubDate>
+</item>
+<item>
+<title>🚧 LUXEMBOURG – A4 | Travaux de maintenance</title>
+<description>🚧 LUXEMBOURG – A4 | Travaux de maintenance
+📍 Autoroute d'Esch, vers Esch
+⚠️ 1 voie(s) restreinte(s).
+🛣️ Voie concernée : voie de droite.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-0fdf6451edeed5a49217e3f5-n-200fdd5740d89309ca508725</guid>
+<pubDate>Sun, 08 Nov 2026 13:55:43 +0000</pubDate>
+</item>
+<item>
+<title>⚠️ LUXEMBOURG – B40 | Obstacle sur la chaussée</title>
+<description>⚠️ LUXEMBOURG – B40 | Obstacle sur la chaussée
+📍 H-R
+📏 Secteur concerné : environ 100 m.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-9b0605de1f6cee688c58e1c1-n-7e481540e1e023b6d8aff97a</guid>
+<pubDate>Sun, 08 Nov 2026 13:55:43 +0000</pubDate>
+</item>
+<item>
+<title>🚦 POINT TRAFIC LUXEMBOURG – 08/11 à 14h55</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 08/11 à 14h55
+
+🚗 Voici les principales perturbations de circulation :
+
+🛣️ A13
+• Véhicule immobilisé – Collectrice du Sud, vers Petange
+• Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
+• Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
+• Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+
+🛣️ B40
+• Obstacle sur la chaussée – H-R
+
+🛣️ A3
+• Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
+• Travaux – Gasperich: Bettembourg vers Grunewald
+
+🛣️ A4
+• Travaux de maintenance – Autoroute d'Esch, vers Esch (1 voie(s) restreinte(s))
+
+🛣️ A6
+• Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
+
+🛣️ A1
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+
+⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
+🚗 Adaptez votre itinéraire et restez prudents.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-summary-27742ef7b284b0487c893221</guid>
+<pubDate>Sun, 08 Nov 2026 13:55:43 +0000</pubDate>
 </item>
 </channel></rss>
