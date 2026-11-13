@@ -4,27 +4,61 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Fri, 13 Nov 2026 15:42:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 21:38:31 +0000</lastBuildDate>
 <item>
-<title>⚠️ LUXEMBOURG – A13 | Véhicule immobilisé</title>
-<description>⚠️ LUXEMBOURG – A13 | Véhicule immobilisé
-📍 Collectrice du Sud, vers Petange
-🛣️ Voie concernée : bande d’arrêt d’urgence.
+<title>⚠️ LUXEMBOURG – A1 | Véhicule immobilisé</title>
+<description>⚠️ LUXEMBOURG – A1 | Véhicule immobilisé
+📍 Autoroute de Tréves, vers Gasperich
+📏 Secteur concerné : environ 100 m.
 
 ⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-6a9b07f8245afabd73869112-n-89cf419cc7d848841c32e9a7</guid>
-<pubDate>Fri, 13 Nov 2026 15:42:32 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-3b8e0b9b4f4aafd3d48dae9b-n-b0b7380f57f51f20703f0aba</guid>
+<pubDate>Fri, 13 Nov 2026 21:38:31 +0000</pubDate>
 </item>
 <item>
-<title>🚦 POINT TRAFIC LUXEMBOURG – 13/11 à 16h42</title>
-<description>🚦 POINT TRAFIC LUXEMBOURG – 13/11 à 16h42
+<title>⚠️ LUXEMBOURG – A13 | Obstacle sur la chaussée</title>
+<description>⚠️ LUXEMBOURG – A13 | Obstacle sur la chaussée
+📍 Lankelz: Pétange vers Raemerich
+📏 Secteur concerné : environ 100 m.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-475a8f8a1665e48b238d3120-n-4304a30918ab70da9fa397ad</guid>
+<pubDate>Fri, 13 Nov 2026 21:38:31 +0000</pubDate>
+</item>
+<item>
+<title>🚧 LUXEMBOURG – A4 | Travaux</title>
+<description>🚧 LUXEMBOURG – A4 | Travaux
+📍 Leudelange Nord: entrée vers Esch
+⚠️ 1 voie(s) restreinte(s).
+🛣️ Voie concernée : bande d’arrêt d’urgence, voie de droite.
+📏 Secteur concerné : environ 471 m.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-b6ef4c104250f69dad2eb7da-n-71cb366dbdcf846002ed6d0d</guid>
+<pubDate>Fri, 13 Nov 2026 21:38:31 +0000</pubDate>
+</item>
+<item>
+<title>🚦 POINT TRAFIC LUXEMBOURG – 13/11 à 22h38</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 13/11 à 22h38
 
 🚗 Voici les principales perturbations de circulation :
 
+🛣️ A1
+• Véhicule immobilisé – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+• Événement perturbant la circulation – Hamm: sortie depuis Gasperich
+
 🛣️ A13
-• Véhicule immobilisé – Collectrice du Sud, vers Petange
+• Obstacle sur la chaussée – Lankelz: Pétange vers Raemerich
 • Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
 • Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
 • Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
@@ -38,24 +72,17 @@
 • Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
 • Travaux – Gasperich: Bettembourg vers Grunewald
 
-🛣️ A6
-• Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
-
-🛣️ A1
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Trier
-• Travaux de maintenance – Autoroute de Tréves, vers Trier
-
-🛣️ A7
-• Défaillance d’équipement routier – Tunnel Grouft en direction de Friedhof
-• Défaillance d’équipement routier – Tunnel Grouft en direction de Grunewald
+🛣️ A4
+• Travaux – Autoroute d'Esch, vers Esch (2 voie(s) restreinte(s))
+• Travaux – Leudelange Nord: entrée vers Esch (1 voie(s) restreinte(s))
+• Travaux – Leudelange Sud: entrée vers Esch(Alzette (1 voie(s) restreinte(s))
+… et 5 autres perturbations en cours.
 
 ⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
 🚗 Adaptez votre itinéraire et restez prudents.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-summary-d7689064d2d7fe766d8bbb04</guid>
-<pubDate>Fri, 13 Nov 2026 15:42:32 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-summary-112fe864d6850d897cfddb8d</guid>
+<pubDate>Fri, 13 Nov 2026 21:38:31 +0000</pubDate>
 </item>
 </channel></rss>
