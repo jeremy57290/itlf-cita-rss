@@ -4,41 +4,54 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Fri, 13 Nov 2026 01:02:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 07:47:06 +0000</lastBuildDate>
 <item>
-<title>⚠️ LUXEMBOURG – A1 | Obstacle sur la chaussée</title>
-<description>⚠️ LUXEMBOURG – A1 | Obstacle sur la chaussée
-📍 Tunnel de Howald en direction de Trèves (vers Allemagne)
+<title>🚧 LUXEMBOURG – A6 | Travaux de maintenance</title>
+<description>🚧 LUXEMBOURG – A6 | Travaux de maintenance
+📍 Autoroute d'Arlon, vers Arlon
+⚠️ 1 voie(s) restreinte(s).
+🛣️ Voie concernée : bande d’arrêt d’urgence, voie de gauche.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-55dd4c1d01ef0346b374c98e-n-492b605068377d759a3b2a9d</guid>
+<pubDate>Fri, 13 Nov 2026 07:47:06 +0000</pubDate>
+</item>
+<item>
+<title>⚠️ LUXEMBOURG – A6 | Véhicule immobilisé</title>
+<description>⚠️ LUXEMBOURG – A6 | Véhicule immobilisé
+📍 Autoroute d'Arlon, vers Gasperich
+📏 Secteur concerné : environ 100 m.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-662787ef209aa68c1098b411-n-231c21f471f155cb8f6e06e5</guid>
+<pubDate>Fri, 13 Nov 2026 07:47:06 +0000</pubDate>
+</item>
+<item>
+<title>🚧 LUXEMBOURG – A1 | Travaux de maintenance</title>
+<description>🚧 LUXEMBOURG – A1 | Travaux de maintenance
+📍 Autoroute de Tréves, vers Trier
 ⚠️ 1 voie(s) restreinte(s).
 🛣️ Voie concernée : voie de droite.
 
 ⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-7f083fe6a243b3a53aebbd74-n-6288491584b7843a1d2c17cb</guid>
-<pubDate>Fri, 13 Nov 2026 01:02:05 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-0b4bef7449c2d3bbd8e53e8f-n-ee9ef25121c8aeb9c75ec248</guid>
+<pubDate>Fri, 13 Nov 2026 07:47:06 +0000</pubDate>
 </item>
 <item>
-<title>⚠️ LUXEMBOURG – A6 | Véhicule immobilisé</title>
-<description>⚠️ LUXEMBOURG – A6 | Véhicule immobilisé
-📍 Cessange: Belgique vers Esch
-⚠️ 1 voie(s) restreinte(s).
-🛣️ Voie concernée : bande d’arrêt d’urgence, voie de droite.
-
-⚠️ Restez prudents et adaptez votre itinéraire.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-869b8acda98beac34bcddc1a-n-83c0caabff8fb7c995147e37</guid>
-<pubDate>Fri, 13 Nov 2026 01:02:05 +0000</pubDate>
-</item>
-<item>
-<title>🚦 POINT TRAFIC LUXEMBOURG – 13/11 à 02h02</title>
-<description>🚦 POINT TRAFIC LUXEMBOURG – 13/11 à 02h02
+<title>🚦 POINT TRAFIC LUXEMBOURG – 13/11 à 08h47</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 13/11 à 08h47
 
 🚗 Voici les principales perturbations de circulation :
 
 🛣️ A1
-• Obstacle sur la chaussée – Tunnel de Howald en direction de Trèves (vers Allemagne) (1 voie(s) restreinte(s))
+• Véhicule immobilisé – Autoroute de Tréves, vers Gasperich (1 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Tréves, vers Trier (1 voie(s) restreinte(s))
 • Travaux de maintenance – Autoroute de Tréves, vers Gasperich
 • Travaux de maintenance – Autoroute de Tréves, vers Gasperich
 • Travaux de maintenance – Autoroute de Tréves, vers Trier
@@ -54,7 +67,8 @@
 • Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
 
 🛣️ A6
-• Véhicule immobilisé – Cessange: Belgique vers Esch (1 voie(s) restreinte(s))
+• Véhicule immobilisé – Autoroute d'Arlon, vers Gasperich
+• Travaux de maintenance – Autoroute d'Arlon, vers Arlon (1 voie(s) restreinte(s))
 • Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
 
 🛣️ A3
@@ -62,17 +76,15 @@
 • Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
 • Travaux – Gasperich: Bettembourg vers Grunewald
 
-🛣️ A4
-• Travaux de maintenance – Autoroute d'Esch, vers Esch (1 voie(s) restreinte(s))
-• Travaux de maintenance – Cessange: Esch vers Belgique (1 voie(s) restreinte(s))
-• Travaux de maintenance – Cessange: Hollerich vers Gasperich (1 voie(s) restreinte(s))
-… et 3 autres perturbations en cours.
+🛣️ A7
+• Défaillance d’équipement routier – Tunnel Grouft en direction de Friedhof
+… et 1 autres perturbations en cours.
 
 ⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
 🚗 Adaptez votre itinéraire et restez prudents.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-summary-bfc6900ab850bb10ac2edf98</guid>
-<pubDate>Fri, 13 Nov 2026 01:02:05 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-summary-51ab74f8273022b8286310ce</guid>
+<pubDate>Fri, 13 Nov 2026 07:47:06 +0000</pubDate>
 </item>
 </channel></rss>
