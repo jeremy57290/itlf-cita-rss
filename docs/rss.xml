@@ -4,161 +4,49 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Sun, 15 Nov 2026 02:53:23 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 09:59:54 +0000</lastBuildDate>
 <item>
-<title>⚠️ LUXEMBOURG – A3 | Véhicule immobilisé</title>
-<description>⚠️ LUXEMBOURG – A3 | Véhicule immobilisé
-📍 Bettembourg: Esch vers Gasperich
-🛣️ Voie concernée : bande d’arrêt d’urgence.
-📏 Secteur concerné : environ 100 m.
+<title>🚦 POINT TRAFIC LUXEMBOURG – 15/11 à 10h59</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 15/11 à 10h59
 
-⚠️ Restez prudents et adaptez votre itinéraire.
+🚗 Voici les principales perturbations de circulation :
+
+🛣️ A13
+• Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
+• Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
+• Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+• Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
+
+🛣️ A3
+• Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
+• Travaux – Gasperich: Bettembourg vers Grunewald
+
+🛣️ A4
+• Travaux – Autoroute d'Esch, vers Esch (2 voie(s) restreinte(s))
+• Travaux – Leudelange Nord: entrée vers Esch (1 voie(s) restreinte(s))
+• Travaux – Leudelange Sud: entrée vers Esch(Alzette (1 voie(s) restreinte(s))
+• Travaux de maintenance – Leudelange Sud: sortie depuis Esh (1 voie(s) restreinte(s))
+
+🛣️ A6
+• Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
+• Travaux de maintenance – Cessange: Gasperich vers Esch (1 voie(s) restreinte(s))
+
+🛣️ A1
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+… et 3 autres perturbations en cours.
+
+⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
+🚗 Adaptez votre itinéraire et restez prudents.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-48ae0624283692861e8de0eb-n-c1772821270c7ca27a0460af</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A13</title>
-<description>✅ FIN DE SIGNALEMENT – A13
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Collectrice du Sud, vers Petange
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-b04f3c02b8f6ce8a5704f4c5-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A4</title>
-<description>✅ FIN DE SIGNALEMENT – A4
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute d'Esch, vers Hollerich
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-c9a09253465cc9a64976a7a2-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A6</title>
-<description>✅ FIN DE SIGNALEMENT – A6
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute d'Arlon, vers Gasperich
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-9950b32142384e146a6cb91f-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A13</title>
-<description>✅ FIN DE SIGNALEMENT – A13
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Collectrice du Sud, vers Petange
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-a11668c08f8257828a79c695-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A13</title>
-<description>✅ FIN DE SIGNALEMENT – A13
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Collectrice du Sud, vers Petange
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-84b6ebb05d30e6548e024039-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A6</title>
-<description>✅ FIN DE SIGNALEMENT – A6
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute d'Arlon, vers Gasperich
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-5d60a03773959b2fa490ffd6-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A6</title>
-<description>✅ FIN DE SIGNALEMENT – A6
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Cessange: Gasperich vers Esch
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-dccff4e529419e4319f1afe8-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A4</title>
-<description>✅ FIN DE SIGNALEMENT – A4
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute d'Esch, vers Hollerich
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-9aa88b5987e398106a7123aa-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A13</title>
-<description>✅ FIN DE SIGNALEMENT – A13
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Collectrice du Sud, vers Petange
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-050c836dceb062a0a0c5a791-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A7</title>
-<description>✅ FIN DE SIGNALEMENT – A7
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Waldhof: sortie depuis Friedhof
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-4592b889f3b9e4731f2aa37f-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A4</title>
-<description>✅ FIN DE SIGNALEMENT – A4
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute d'Esch, vers Hollerich
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-0e297438e6de6fd0451629aa-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A1</title>
-<description>✅ FIN DE SIGNALEMENT – A1
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute de Tréves, vers Trier
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-114481dee405cea1f4f6a183-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
-</item>
-<item>
-<title>✅ FIN DE SIGNALEMENT – A6</title>
-<description>✅ FIN DE SIGNALEMENT – A6
-La perturbation précédemment signalée ne figure plus parmi les informations de circulation disponibles.
-📍 Autoroute d'Arlon, vers Arlon
-⚠️ La reprise normale de la circulation reste à confirmer sur place.
-#ITLF #InfoTrafic #Luxembourg #CITA</description>
-<link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-b273f6ce1e8a997aa7537e0e-end-9835bcb2b940dccdf44b9af0</guid>
-<pubDate>Sun, 15 Nov 2026 02:53:23 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-summary-83a151fd990a9b1481ed8f15</guid>
+<pubDate>Sun, 15 Nov 2026 09:59:54 +0000</pubDate>
 </item>
 </channel></rss>
