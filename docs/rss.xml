@@ -4,14 +4,27 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Sun, 22 Nov 2026 07:55:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 15:47:43 +0000</lastBuildDate>
 <item>
-<title>🚦 POINT TRAFIC LUXEMBOURG – 22/11 à 08h55</title>
-<description>🚦 POINT TRAFIC LUXEMBOURG – 22/11 à 08h55
+<title>⚠️ LUXEMBOURG – A13 | Véhicule immobilisé</title>
+<description>⚠️ LUXEMBOURG – A13 | Véhicule immobilisé
+📍 Collectrice du Sud, vers Schengen
+🛣️ Voie concernée : bande d’arrêt d’urgence.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-20cdeb4383d9687d020f8c03-n-561cb81218a85b4a57d15619</guid>
+<pubDate>Sun, 22 Nov 2026 15:47:43 +0000</pubDate>
+</item>
+<item>
+<title>🚦 POINT TRAFIC LUXEMBOURG – 22/11 à 16h47</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 22/11 à 16h47
 
 🚗 Voici les principales perturbations de circulation :
 
 🛣️ A13
+• Véhicule immobilisé – Collectrice du Sud, vers Schengen
 • Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
 • Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
 • Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
@@ -33,7 +46,6 @@
 
 🛣️ A6
 • Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
-• Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
 • Événement perturbant la circulation – Autoroute d'Arlon, vers Arlon
 • Événement perturbant la circulation – Autoroute d'Arlon, vers Gasperich
 
@@ -46,7 +58,7 @@
 🚗 Adaptez votre itinéraire et restez prudents.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-summary-f97aa338914fc20fa4c2b491</guid>
-<pubDate>Sun, 22 Nov 2026 07:55:02 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-summary-30ea30f233c387a627503e1a</guid>
+<pubDate>Sun, 22 Nov 2026 15:47:43 +0000</pubDate>
 </item>
 </channel></rss>
