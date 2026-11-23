@@ -4,49 +4,72 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Mon, 23 Nov 2026 01:49:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 09:52:04 +0000</lastBuildDate>
 <item>
-<title>🚦 POINT TRAFIC LUXEMBOURG – 23/11 à 02h49</title>
-<description>🚦 POINT TRAFIC LUXEMBOURG – 23/11 à 02h49
+<title>🚨 LUXEMBOURG – A13 | Accident</title>
+<description>🚨 LUXEMBOURG – A13 | Accident
+📍 Sanem: entrée vers Lankelz
+🛣️ Voie concernée : bande d’arrêt d’urgence.
+📏 Secteur concerné : environ 100 m.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-007c52cd68e8a7956ce1e93c-n-37b48f60e6b2e4f77d16546b</guid>
+<pubDate>Mon, 23 Nov 2026 09:52:04 +0000</pubDate>
+</item>
+<item>
+<title>⚠️ LUXEMBOURG – A7 | Véhicule immobilisé</title>
+<description>⚠️ LUXEMBOURG – A7 | Véhicule immobilisé
+📍 Autoroute du Nord, vers Grunewald
+📏 Secteur concerné : environ 100 m.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-bc1afe0bedc718824ad9d23b-n-3548500739cfe26a9cb31967</guid>
+<pubDate>Mon, 23 Nov 2026 09:52:04 +0000</pubDate>
+</item>
+<item>
+<title>🚦 POINT TRAFIC LUXEMBOURG – 23/11 à 10h52</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 23/11 à 10h52
 
 🚗 Voici les principales perturbations de circulation :
 
 🛣️ A13
+• Accident – Sanem: entrée vers Lankelz
 • Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
-• Accident – Tunnel de Ehlerange en direction de Sarre (vers Allemagne)
 • Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
 • Travaux – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
-• Travaux de maintenance – Esch: Bettembourg vers Cesange (1 voie(s) restreinte(s))
 • Défaillance d’équipement routier – Tunnel Markusberg en direction de Allemagne (Sarre)
 • Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
 • Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
 • Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
 
+🛣️ A7
+• Véhicule immobilisé – Autoroute du Nord, vers Grunewald
+• Défaillance d’équipement routier – Tunnel Grouft en direction de Friedhof
+• Défaillance d’équipement routier – Tunnel Grouft en direction de Grunewald
+
+🛣️ A1
+• Travaux de maintenance – Autoroute de Tréves, vers Trier (1 voie(s) restreinte(s))
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+• Travaux de maintenance – Autoroute de Tréves, vers Trier
+
 🛣️ A3
+• Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (1 voie(s) restreinte(s))
 • Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))
 • Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
 • Travaux – Gasperich: Bettembourg vers Grunewald
-
-🛣️ A4
-• Travaux de maintenance – Autoroute d'Esch, vers Hollerich (2 voie(s) restreinte(s))
-• Travaux de maintenance – Foetz: entrée vers Cessange (1 voie(s) restreinte(s))
-• Travaux de maintenance – Autoroute d'Esch, vers Hollerich
-
-🛣️ A6
-• Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
-• Événement perturbant la circulation – Autoroute d'Arlon, vers Arlon
-• Événement perturbant la circulation – Autoroute d'Arlon, vers Gasperich
-
-🛣️ A1
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
 … et 4 autres perturbations en cours.
 
 ⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
 🚗 Adaptez votre itinéraire et restez prudents.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-summary-758d63381246ca4c65af5039</guid>
-<pubDate>Mon, 23 Nov 2026 01:49:33 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-summary-e5a0c8e65001741874c76c42</guid>
+<pubDate>Mon, 23 Nov 2026 09:52:04 +0000</pubDate>
 </item>
 </channel></rss>
