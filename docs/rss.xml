@@ -4,14 +4,53 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Mon, 23 Nov 2026 21:44:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 05:34:25 +0000</lastBuildDate>
 <item>
-<title>🚦 POINT TRAFIC LUXEMBOURG – 23/11 à 22h44</title>
-<description>🚦 POINT TRAFIC LUXEMBOURG – 23/11 à 22h44
+<title>⚠️ LUXEMBOURG – A13 | Obstacle sur la chaussée</title>
+<description>⚠️ LUXEMBOURG – A13 | Obstacle sur la chaussée
+📍 Collectrice du Sud, vers Petange
+⚠️ 1 voie(s) restreinte(s).
+🛣️ Voie concernée : bande d’arrêt d’urgence, voie de gauche.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-f4632133a397935b83679363-n-0d64cc84bec1ad7d87ada1ae</guid>
+<pubDate>Tue, 24 Nov 2026 05:34:25 +0000</pubDate>
+</item>
+<item>
+<title>🚨 LUXEMBOURG – A3 | Accident</title>
+<description>🚨 LUXEMBOURG – A3 | Accident
+📍 Autoroute de Thionville, vers Luxembourg
+⚠️ 1 voie(s) restreinte(s).
+🛣️ Voie concernée : voie de droite.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-cdd0e0de0ea7a2a60e58218f-n-1764b72de93fbe92e336d527</guid>
+<pubDate>Tue, 24 Nov 2026 05:34:25 +0000</pubDate>
+</item>
+<item>
+<title>⚠️ LUXEMBOURG – A7 | Véhicule immobilisé</title>
+<description>⚠️ LUXEMBOURG – A7 | Véhicule immobilisé
+📍 Autoroute du Nord, vers Nord
+📏 Secteur concerné : environ 100 m.
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-0ca7c4c0d740cd820564c5a0-n-86daa2a130dc175631875f17</guid>
+<pubDate>Tue, 24 Nov 2026 05:34:25 +0000</pubDate>
+</item>
+<item>
+<title>🚦 POINT TRAFIC LUXEMBOURG – 24/11 à 06h34</title>
+<description>🚦 POINT TRAFIC LUXEMBOURG – 24/11 à 06h34
 
 🚗 Voici les principales perturbations de circulation :
 
 🛣️ A13
+• Obstacle sur la chaussée – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
 • Véhicule immobilisé – Collectrice du Sud, vers Schengen (1 voie(s) restreinte(s))
 • Obstacle sur la chaussée – Tunnel Markusberg en direction de Allemagne (Sarre) (1 voie(s) restreinte(s))
 • Travaux – Collectrice du Sud, vers Petange (1 voie(s) restreinte(s))
@@ -22,10 +61,15 @@
 • Défaillance d’équipement routier – Tunnel Markusberg en direction de Pétange
 
 🛣️ A3
-• Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (1 voie(s) restreinte(s))
+• Accident – Autoroute de Thionville, vers Luxembourg (1 voie(s) restreinte(s))
 • Travaux de maintenance – Autoroute de Thionville, vers Luxembourg (2 voie(s) restreinte(s))
 • Travaux de maintenance – Autoroute de Thionville, vers Metz (2 voie(s) restreinte(s))
 • Travaux – Gasperich: Bettembourg vers Grunewald
+
+🛣️ A7
+• Véhicule immobilisé – Autoroute du Nord, vers Nord
+• Défaillance d’équipement routier – Tunnel Grouft en direction de Friedhof
+• Défaillance d’équipement routier – Tunnel Grouft en direction de Grunewald
 
 🛣️ A6
 • Travaux de maintenance – Autoroute d'Arlon, vers Gasperich (1 voie(s) restreinte(s))
@@ -34,19 +78,13 @@
 
 🛣️ A1
 • Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Gasperich
-• Travaux de maintenance – Autoroute de Tréves, vers Trier
-• Travaux de maintenance – Autoroute de Tréves, vers Trier
-
-🛣️ A4
-• Travaux de maintenance – Autoroute d'Esch, vers Hollerich
-… et 2 autres perturbations en cours.
+… et 4 autres perturbations en cours.
 
 ⚠️ Certaines perturbations peuvent durer plusieurs jours. La circulation peut évoluer.
 🚗 Adaptez votre itinéraire et restez prudents.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-summary-4ff2eb601930c49fd33893fb</guid>
-<pubDate>Mon, 23 Nov 2026 21:44:23 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-summary-dc485fd3ec5d6b97e291565e</guid>
+<pubDate>Tue, 24 Nov 2026 05:34:25 +0000</pubDate>
 </item>
 </channel></rss>
