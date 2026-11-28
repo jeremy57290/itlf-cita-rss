@@ -4,20 +4,27 @@
 <link>https://www.cita.lu/</link>
 <description>Alertes et points trafic sur les routes du Luxembourg.</description>
 <language>fr-LU</language>
-<lastBuildDate>Fri, 27 Nov 2026 20:09:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 02:39:32 +0000</lastBuildDate>
 <item>
-<title>🚧 LUXEMBOURG – A6 | Travaux de maintenance</title>
-<description>🚧 LUXEMBOURG – A6 | Travaux de maintenance
-📍 Strassen: sortie depuis Belgique
-⚠️ 1 voie(s) restreinte(s).
-🛣️ Voie concernée : bande d’arrêt d’urgence, voie de droite.
-📏 Secteur concerné : environ 823 m.
-ℹ️ Entretien: Infrastructures
+<title>🚧 LUXEMBOURG – A1 | Travaux de maintenance</title>
+<description>🚧 LUXEMBOURG – A1 | Travaux de maintenance
+📍 Autoroute de Tréves, vers Trier
 
 ⚠️ Restez prudents et adaptez votre itinéraire.
 #ITLF #InfoTrafic #Luxembourg #CITA</description>
 <link>https://www.cita.lu/</link>
-<guid isPermaLink="false">itlf-cita-d05b7022d4b67207f4f147aa-n-e4079236839b324c8fdf0707</guid>
-<pubDate>Fri, 27 Nov 2026 20:09:13 +0000</pubDate>
+<guid isPermaLink="false">itlf-cita-83991bec65684ef219498788-n-a697d7a4e95a206200381172</guid>
+<pubDate>Sat, 28 Nov 2026 02:39:32 +0000</pubDate>
+</item>
+<item>
+<title>🚧 LUXEMBOURG – A1 | Travaux de maintenance</title>
+<description>🚧 LUXEMBOURG – A1 | Travaux de maintenance
+📍 Autoroute de Tréves, vers Gasperich
+
+⚠️ Restez prudents et adaptez votre itinéraire.
+#ITLF #InfoTrafic #Luxembourg #CITA</description>
+<link>https://www.cita.lu/</link>
+<guid isPermaLink="false">itlf-cita-a896dbca0a0c184ebdbf03f7-n-679d2857e551590ccd06df37</guid>
+<pubDate>Sat, 28 Nov 2026 02:39:32 +0000</pubDate>
 </item>
 </channel></rss>
